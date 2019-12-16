@@ -124,7 +124,7 @@ function App() {
 
   return (
     <Grid container spacing={3}>
-      <Grid item xs={3}>
+      <Grid item md={3} xs={12}>
         <Autocomplete
           id="combo-box-demo"
           value={state.monster}
@@ -152,7 +152,7 @@ function App() {
           </div>
         ))}
       </Grid>
-      <Grid item xs={9}>
+      <Grid item md={9} xs={12}>
         <TableContainer component={Paper}>
           <Table aria-label="monster table">
             <TableHead>
