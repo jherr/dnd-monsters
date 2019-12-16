@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useDeferredValue } from 'react';
 import ReactDOM from 'react-dom';
-import { withStyles } from '@material-ui/core/styles';
+import { withStyles, makeStyles } from '@material-ui/core/styles';
 import Typography from '@material-ui/core/Typography';
 import Slider from '@material-ui/core/Slider';
 import Grid from '@material-ui/core/Grid';
@@ -89,7 +89,17 @@ const PrettoSlider = withStyles({
   },
 })(Slider);
 
+const useStyles = makeStyles({
+  root: {
+    width: '100%',
+  },
+  container: {
+    maxHeight: 520,
+  },
+});
+
 function App() {
+  const classes = useStyles();
   const [state, setState] = useState({
     monster: startMonster,
     values: { ...startMonster },
@@ -153,8 +163,8 @@ function App() {
         ))}
       </Grid>
       <Grid item md={9} xs={12}>
-        <TableContainer component={Paper}>
-          <Table aria-label="monster table">
+        <TableContainer component={Paper} className={classes.container}>
+          <Table stickyHeader aria-label="monster table">
             <TableHead>
               <TableRow>
                 <BoldCell>Name</BoldCell>
