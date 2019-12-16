@@ -1,0 +1,22 @@
+{
+  "name": "monsters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --out-dir docs"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.7.0",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/lab": "^4.0.0-alpha.36",
+    "parcel-bundler": "^1.12.4",
+    "react": "experimental",
+    "react-dom": "experimental",
+    "static-kdtree": "^1.0.2"
+  },
+  "devDependencies": {
+    "roll-parser": "^2.3.2"
+  }
+}
