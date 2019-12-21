@@ -1,18 +1,21 @@
 import React, { useState, useEffect, useDeferredValue } from 'react';
 import ReactDOM from 'react-dom';
-import { withStyles, makeStyles } from '@material-ui/core/styles';
-import Typography from '@material-ui/core/Typography';
-import Slider from '@material-ui/core/Slider';
-import Grid from '@material-ui/core/Grid';
+import {
+  Typography,
+  Slider,
+  Grid,
+  TextField,
+  Table,
+  TableBody,
+  TableCell,
+  TableContainer,
+  TableHead,
+  TableRow,
+  Paper,
+  withStyles,
+  makeStyles
+} from '@material-ui/core';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import TextField from '@material-ui/core/TextField';
-import Table from '@material-ui/core/Table';
-import TableBody from '@material-ui/core/TableBody';
-import TableCell from '@material-ui/core/TableCell';
-import TableContainer from '@material-ui/core/TableContainer';
-import TableHead from '@material-ui/core/TableHead';
-import TableRow from '@material-ui/core/TableRow';
-import Paper from '@material-ui/core/Paper';
 import createKDTree from 'static-kdtree';
 
 import monsters from './data/monsters.json';
@@ -31,14 +34,20 @@ const labels = {
 
 const fields = Object.keys(monsters[0])
   .filter(k => k !== 'name');
-const ranges = {};
-fields.forEach(k => { ranges[k] = { min: 10000, max: 0 }; });
-monsters.forEach(monster => {
-  fields.forEach(k => {
-    ranges[k].min = Math.min(monster[k], ranges[k].min);
-    ranges[k].max = Math.max(monster[k], ranges[k].max);
+
+const findRanges = (mstrs) => {
+  const out = {};
+  fields.forEach(k => { out[k] = { min: 10000, max: 0 }; });
+  mstrs.forEach(monster => {
+    fields.forEach(k => {
+      out[k].min = Math.min(monster[k], out[k].min);
+      out[k].max = Math.max(monster[k], out[k].max);
+    });
   });
-});
+  return out;
+}
+
+const ranges = findRanges(monsters);
 
 const tree = createKDTree(
   monsters.map(monster => fields.map(f => monster[f]))
@@ -83,6 +92,16 @@ const PrettoSlider = withStyles({
     height: 8,
     borderRadius: 4,
   },
+  mark: {
+    backgroundColor: '#bfbfbf',
+    height: 17,
+    width: 2,
+    marginTop: -5,
+  },
+  markActive: {
+    opacity: 1,
+    backgroundColor: 'currentColor',
+  },
   rail: {
     height: 8,
     borderRadius: 4,
@@ -104,6 +123,7 @@ function App() {
     monster: startMonster,
     values: { ...startMonster },
   });
+  const [activeRanges, setActiveRanges] = useState({ ...ranges });
   const [found, setFound] = useState([]);
   const deferredState = useDeferredValue(state);
 
@@ -129,6 +149,7 @@ function App() {
   useEffect(() => {
     const res = tree.knn(fields.map(f => deferredState.values[f]), 20)
       .map(i => monsters[i]);
+    setActiveRanges(findRanges(res));
     setFound(res);
   }, [deferredState]);
 
@@ -158,6 +179,7 @@ function App() {
               valueLabelDisplay="auto"
               min={ranges[f].min}
               max={ranges[f].max}
+              marks={[{value: activeRanges[f].min}, {value: activeRanges[f].max}]}
             />
           </div>
         ))}
