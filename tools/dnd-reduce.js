@@ -2,7 +2,7 @@ const fs = require('fs');
 const { parse } = require('roll-parser');
 
 const out = [];
-JSON.parse(fs.readFileSync('./data/5e-SRD-Monsters.json').toString()).forEach(({
+JSON.parse(fs.readFileSync('./data/dnd-monsters/original.json').toString()).forEach(({
   name,
   hit_points,
   hit_dice,
@@ -32,4 +32,4 @@ JSON.parse(fs.readFileSync('./data/5e-SRD-Monsters.json').toString()).forEach(({
 console.log(`${out.length} monsters`);
 console.log(`${Object.keys(out[0]).length - 1} dimensions`);
 
-fs.writeFileSync('./data/monsters.json', JSON.stringify(out, null, 2));
+fs.writeFileSync('./data/dnd-monsters/items.json', JSON.stringify(out, null, 2));

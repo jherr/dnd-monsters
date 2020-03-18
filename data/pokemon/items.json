@@ -1,0 +1,7283 @@
+[
+  {
+    "name": "Bulbasaur",
+    "HP": 45,
+    "Attack": 49,
+    "Defense": 49,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 45
+  },
+  {
+    "name": "Ivysaur",
+    "HP": 60,
+    "Attack": 62,
+    "Defense": 63,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 60
+  },
+  {
+    "name": "Venusaur",
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 83,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 80
+  },
+  {
+    "name": "Charmander",
+    "HP": 39,
+    "Attack": 52,
+    "Defense": 43,
+    "Sp. Attack": 60,
+    "Sp. Defense": 50,
+    "Speed": 65
+  },
+  {
+    "name": "Charmeleon",
+    "HP": 58,
+    "Attack": 64,
+    "Defense": 58,
+    "Sp. Attack": 80,
+    "Sp. Defense": 65,
+    "Speed": 80
+  },
+  {
+    "name": "Charizard",
+    "HP": 78,
+    "Attack": 84,
+    "Defense": 78,
+    "Sp. Attack": 109,
+    "Sp. Defense": 85,
+    "Speed": 100
+  },
+  {
+    "name": "Squirtle",
+    "HP": 44,
+    "Attack": 48,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 64,
+    "Speed": 43
+  },
+  {
+    "name": "Wartortle",
+    "HP": 59,
+    "Attack": 63,
+    "Defense": 80,
+    "Sp. Attack": 65,
+    "Sp. Defense": 80,
+    "Speed": 58
+  },
+  {
+    "name": "Blastoise",
+    "HP": 79,
+    "Attack": 83,
+    "Defense": 100,
+    "Sp. Attack": 85,
+    "Sp. Defense": 105,
+    "Speed": 78
+  },
+  {
+    "name": "Caterpie",
+    "HP": 45,
+    "Attack": 30,
+    "Defense": 35,
+    "Sp. Attack": 20,
+    "Sp. Defense": 20,
+    "Speed": 45
+  },
+  {
+    "name": "Metapod",
+    "HP": 50,
+    "Attack": 20,
+    "Defense": 55,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 30
+  },
+  {
+    "name": "Butterfree",
+    "HP": 60,
+    "Attack": 45,
+    "Defense": 50,
+    "Sp. Attack": 90,
+    "Sp. Defense": 80,
+    "Speed": 70
+  },
+  {
+    "name": "Weedle",
+    "HP": 40,
+    "Attack": 35,
+    "Defense": 30,
+    "Sp. Attack": 20,
+    "Sp. Defense": 20,
+    "Speed": 50
+  },
+  {
+    "name": "Kakuna",
+    "HP": 45,
+    "Attack": 25,
+    "Defense": 50,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 35
+  },
+  {
+    "name": "Beedrill",
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 40,
+    "Sp. Attack": 45,
+    "Sp. Defense": 80,
+    "Speed": 75
+  },
+  {
+    "name": "Pidgey",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 40,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 56
+  },
+  {
+    "name": "Pidgeotto",
+    "HP": 63,
+    "Attack": 60,
+    "Defense": 55,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 71
+  },
+  {
+    "name": "Pidgeot",
+    "HP": 83,
+    "Attack": 80,
+    "Defense": 75,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 101
+  },
+  {
+    "name": "Rattata",
+    "HP": 30,
+    "Attack": 56,
+    "Defense": 35,
+    "Sp. Attack": 25,
+    "Sp. Defense": 35,
+    "Speed": 72
+  },
+  {
+    "name": "Raticate",
+    "HP": 55,
+    "Attack": 81,
+    "Defense": 60,
+    "Sp. Attack": 50,
+    "Sp. Defense": 70,
+    "Speed": 97
+  },
+  {
+    "name": "Spearow",
+    "HP": 40,
+    "Attack": 60,
+    "Defense": 30,
+    "Sp. Attack": 31,
+    "Sp. Defense": 31,
+    "Speed": 70
+  },
+  {
+    "name": "Fearow",
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 65,
+    "Sp. Attack": 61,
+    "Sp. Defense": 61,
+    "Speed": 100
+  },
+  {
+    "name": "Ekans",
+    "HP": 35,
+    "Attack": 60,
+    "Defense": 44,
+    "Sp. Attack": 40,
+    "Sp. Defense": 54,
+    "Speed": 55
+  },
+  {
+    "name": "Arbok",
+    "HP": 60,
+    "Attack": 95,
+    "Defense": 69,
+    "Sp. Attack": 65,
+    "Sp. Defense": 79,
+    "Speed": 80
+  },
+  {
+    "name": "Pikachu",
+    "HP": 35,
+    "Attack": 55,
+    "Defense": 40,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 90
+  },
+  {
+    "name": "Raichu",
+    "HP": 60,
+    "Attack": 90,
+    "Defense": 55,
+    "Sp. Attack": 90,
+    "Sp. Defense": 80,
+    "Speed": 110
+  },
+  {
+    "name": "Sandshrew",
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 85,
+    "Sp. Attack": 20,
+    "Sp. Defense": 30,
+    "Speed": 40
+  },
+  {
+    "name": "Sandslash",
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 110,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 65
+  },
+  {
+    "name": "Nidoran♀",
+    "HP": 55,
+    "Attack": 47,
+    "Defense": 52,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 41
+  },
+  {
+    "name": "Nidorina",
+    "HP": 70,
+    "Attack": 62,
+    "Defense": 67,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 56
+  },
+  {
+    "name": "Nidoqueen",
+    "HP": 90,
+    "Attack": 92,
+    "Defense": 87,
+    "Sp. Attack": 75,
+    "Sp. Defense": 85,
+    "Speed": 76
+  },
+  {
+    "name": "Nidoran♂",
+    "HP": 46,
+    "Attack": 57,
+    "Defense": 40,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 50
+  },
+  {
+    "name": "Nidorino",
+    "HP": 61,
+    "Attack": 72,
+    "Defense": 57,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 65
+  },
+  {
+    "name": "Nidoking",
+    "HP": 81,
+    "Attack": 102,
+    "Defense": 77,
+    "Sp. Attack": 85,
+    "Sp. Defense": 75,
+    "Speed": 85
+  },
+  {
+    "name": "Clefairy",
+    "HP": 70,
+    "Attack": 45,
+    "Defense": 48,
+    "Sp. Attack": 60,
+    "Sp. Defense": 65,
+    "Speed": 35
+  },
+  {
+    "name": "Clefable",
+    "HP": 95,
+    "Attack": 70,
+    "Defense": 73,
+    "Sp. Attack": 95,
+    "Sp. Defense": 90,
+    "Speed": 60
+  },
+  {
+    "name": "Vulpix",
+    "HP": 38,
+    "Attack": 41,
+    "Defense": 40,
+    "Sp. Attack": 50,
+    "Sp. Defense": 65,
+    "Speed": 65
+  },
+  {
+    "name": "Ninetales",
+    "HP": 73,
+    "Attack": 76,
+    "Defense": 75,
+    "Sp. Attack": 81,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  {
+    "name": "Jigglypuff",
+    "HP": 115,
+    "Attack": 45,
+    "Defense": 20,
+    "Sp. Attack": 45,
+    "Sp. Defense": 25,
+    "Speed": 20
+  },
+  {
+    "name": "Wigglytuff",
+    "HP": 140,
+    "Attack": 70,
+    "Defense": 45,
+    "Sp. Attack": 85,
+    "Sp. Defense": 50,
+    "Speed": 45
+  },
+  {
+    "name": "Zubat",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 35,
+    "Sp. Attack": 30,
+    "Sp. Defense": 40,
+    "Speed": 55
+  },
+  {
+    "name": "Golbat",
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 70,
+    "Sp. Attack": 65,
+    "Sp. Defense": 75,
+    "Speed": 90
+  },
+  {
+    "name": "Oddish",
+    "HP": 45,
+    "Attack": 50,
+    "Defense": 55,
+    "Sp. Attack": 75,
+    "Sp. Defense": 65,
+    "Speed": 30
+  },
+  {
+    "name": "Gloom",
+    "HP": 60,
+    "Attack": 65,
+    "Defense": 70,
+    "Sp. Attack": 85,
+    "Sp. Defense": 75,
+    "Speed": 40
+  },
+  {
+    "name": "Vileplume",
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 85,
+    "Sp. Attack": 110,
+    "Sp. Defense": 90,
+    "Speed": 50
+  },
+  {
+    "name": "Paras",
+    "HP": 35,
+    "Attack": 70,
+    "Defense": 55,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 25
+  },
+  {
+    "name": "Parasect",
+    "HP": 60,
+    "Attack": 95,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 80,
+    "Speed": 30
+  },
+  {
+    "name": "Venonat",
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 55,
+    "Speed": 45
+  },
+  {
+    "name": "Venomoth",
+    "HP": 70,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 90,
+    "Sp. Defense": 75,
+    "Speed": 90
+  },
+  {
+    "name": "Diglett",
+    "HP": 10,
+    "Attack": 55,
+    "Defense": 25,
+    "Sp. Attack": 35,
+    "Sp. Defense": 45,
+    "Speed": 95
+  },
+  {
+    "name": "Dugtrio",
+    "HP": 35,
+    "Attack": 100,
+    "Defense": 50,
+    "Sp. Attack": 50,
+    "Sp. Defense": 70,
+    "Speed": 120
+  },
+  {
+    "name": "Meowth",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 35,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 90
+  },
+  {
+    "name": "Persian",
+    "HP": 65,
+    "Attack": 70,
+    "Defense": 60,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 115
+  },
+  {
+    "name": "Psyduck",
+    "HP": 50,
+    "Attack": 52,
+    "Defense": 48,
+    "Sp. Attack": 65,
+    "Sp. Defense": 50,
+    "Speed": 55
+  },
+  {
+    "name": "Golduck",
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 78,
+    "Sp. Attack": 95,
+    "Sp. Defense": 80,
+    "Speed": 85
+  },
+  {
+    "name": "Mankey",
+    "HP": 40,
+    "Attack": 80,
+    "Defense": 35,
+    "Sp. Attack": 35,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  {
+    "name": "Primeape",
+    "HP": 65,
+    "Attack": 105,
+    "Defense": 60,
+    "Sp. Attack": 60,
+    "Sp. Defense": 70,
+    "Speed": 95
+  },
+  {
+    "name": "Growlithe",
+    "HP": 55,
+    "Attack": 70,
+    "Defense": 45,
+    "Sp. Attack": 70,
+    "Sp. Defense": 50,
+    "Speed": 60
+  },
+  {
+    "name": "Arcanine",
+    "HP": 90,
+    "Attack": 110,
+    "Defense": 80,
+    "Sp. Attack": 100,
+    "Sp. Defense": 80,
+    "Speed": 95
+  },
+  {
+    "name": "Poliwag",
+    "HP": 40,
+    "Attack": 50,
+    "Defense": 40,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 90
+  },
+  {
+    "name": "Poliwhirl",
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 90
+  },
+  {
+    "name": "Poliwrath",
+    "HP": 90,
+    "Attack": 95,
+    "Defense": 95,
+    "Sp. Attack": 70,
+    "Sp. Defense": 90,
+    "Speed": 70
+  },
+  {
+    "name": "Abra",
+    "HP": 25,
+    "Attack": 20,
+    "Defense": 15,
+    "Sp. Attack": 105,
+    "Sp. Defense": 55,
+    "Speed": 90
+  },
+  {
+    "name": "Kadabra",
+    "HP": 40,
+    "Attack": 35,
+    "Defense": 30,
+    "Sp. Attack": 120,
+    "Sp. Defense": 70,
+    "Speed": 105
+  },
+  {
+    "name": "Alakazam",
+    "HP": 55,
+    "Attack": 50,
+    "Defense": 45,
+    "Sp. Attack": 135,
+    "Sp. Defense": 95,
+    "Speed": 120
+  },
+  {
+    "name": "Machop",
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 50,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 35
+  },
+  {
+    "name": "Machoke",
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 50,
+    "Sp. Defense": 60,
+    "Speed": 45
+  },
+  {
+    "name": "Machamp",
+    "HP": 90,
+    "Attack": 130,
+    "Defense": 80,
+    "Sp. Attack": 65,
+    "Sp. Defense": 85,
+    "Speed": 55
+  },
+  {
+    "name": "Bellsprout",
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 35,
+    "Sp. Attack": 70,
+    "Sp. Defense": 30,
+    "Speed": 40
+  },
+  {
+    "name": "Weepinbell",
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 50,
+    "Sp. Attack": 85,
+    "Sp. Defense": 45,
+    "Speed": 55
+  },
+  {
+    "name": "Victreebel",
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 65,
+    "Sp. Attack": 100,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  {
+    "name": "Tentacool",
+    "HP": 40,
+    "Attack": 40,
+    "Defense": 35,
+    "Sp. Attack": 50,
+    "Sp. Defense": 100,
+    "Speed": 70
+  },
+  {
+    "name": "Tentacruel",
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 65,
+    "Sp. Attack": 80,
+    "Sp. Defense": 120,
+    "Speed": 100
+  },
+  {
+    "name": "Geodude",
+    "HP": 40,
+    "Attack": 80,
+    "Defense": 100,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 20
+  },
+  {
+    "name": "Graveler",
+    "HP": 55,
+    "Attack": 95,
+    "Defense": 115,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 35
+  },
+  {
+    "name": "Golem",
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 130,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 45
+  },
+  {
+    "name": "Ponyta",
+    "HP": 50,
+    "Attack": 85,
+    "Defense": 55,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 90
+  },
+  {
+    "name": "Rapidash",
+    "HP": 65,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 105
+  },
+  {
+    "name": "Slowpoke",
+    "HP": 90,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 15
+  },
+  {
+    "name": "Slowbro",
+    "HP": 95,
+    "Attack": 75,
+    "Defense": 110,
+    "Sp. Attack": 100,
+    "Sp. Defense": 80,
+    "Speed": 30
+  },
+  {
+    "name": "Magnemite",
+    "HP": 25,
+    "Attack": 35,
+    "Defense": 70,
+    "Sp. Attack": 95,
+    "Sp. Defense": 55,
+    "Speed": 45
+  },
+  {
+    "name": "Magneton",
+    "HP": 50,
+    "Attack": 60,
+    "Defense": 95,
+    "Sp. Attack": 120,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  {
+    "name": "Farfetch'd",
+    "HP": 52,
+    "Attack": 90,
+    "Defense": 55,
+    "Sp. Attack": 58,
+    "Sp. Defense": 62,
+    "Speed": 60
+  },
+  {
+    "name": "Doduo",
+    "HP": 35,
+    "Attack": 85,
+    "Defense": 45,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 75
+  },
+  {
+    "name": "Dodrio",
+    "HP": 60,
+    "Attack": 110,
+    "Defense": 70,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 110
+  },
+  {
+    "name": "Seel",
+    "HP": 65,
+    "Attack": 45,
+    "Defense": 55,
+    "Sp. Attack": 45,
+    "Sp. Defense": 70,
+    "Speed": 45
+  },
+  {
+    "name": "Dewgong",
+    "HP": 90,
+    "Attack": 70,
+    "Defense": 80,
+    "Sp. Attack": 70,
+    "Sp. Defense": 95,
+    "Speed": 70
+  },
+  {
+    "name": "Grimer",
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 25
+  },
+  {
+    "name": "Muk",
+    "HP": 105,
+    "Attack": 105,
+    "Defense": 75,
+    "Sp. Attack": 65,
+    "Sp. Defense": 100,
+    "Speed": 50
+  },
+  {
+    "name": "Shellder",
+    "HP": 30,
+    "Attack": 65,
+    "Defense": 100,
+    "Sp. Attack": 45,
+    "Sp. Defense": 25,
+    "Speed": 40
+  },
+  {
+    "name": "Cloyster",
+    "HP": 50,
+    "Attack": 95,
+    "Defense": 180,
+    "Sp. Attack": 85,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  {
+    "name": "Gastly",
+    "HP": 30,
+    "Attack": 35,
+    "Defense": 30,
+    "Sp. Attack": 100,
+    "Sp. Defense": 35,
+    "Speed": 80
+  },
+  {
+    "name": "Haunter",
+    "HP": 45,
+    "Attack": 50,
+    "Defense": 45,
+    "Sp. Attack": 115,
+    "Sp. Defense": 55,
+    "Speed": 95
+  },
+  {
+    "name": "Gengar",
+    "HP": 60,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 130,
+    "Sp. Defense": 75,
+    "Speed": 110
+  },
+  {
+    "name": "Onix",
+    "HP": 35,
+    "Attack": 45,
+    "Defense": 160,
+    "Sp. Attack": 30,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  {
+    "name": "Drowzee",
+    "HP": 60,
+    "Attack": 48,
+    "Defense": 45,
+    "Sp. Attack": 43,
+    "Sp. Defense": 90,
+    "Speed": 42
+  },
+  {
+    "name": "Hypno",
+    "HP": 85,
+    "Attack": 73,
+    "Defense": 70,
+    "Sp. Attack": 73,
+    "Sp. Defense": 115,
+    "Speed": 67
+  },
+  {
+    "name": "Krabby",
+    "HP": 30,
+    "Attack": 105,
+    "Defense": 90,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 50
+  },
+  {
+    "name": "Kingler",
+    "HP": 55,
+    "Attack": 130,
+    "Defense": 115,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 75
+  },
+  {
+    "name": "Voltorb",
+    "HP": 40,
+    "Attack": 30,
+    "Defense": 50,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 100
+  },
+  {
+    "name": "Electrode",
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 150
+  },
+  {
+    "name": "Exeggcute",
+    "HP": 60,
+    "Attack": 40,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 45,
+    "Speed": 40
+  },
+  {
+    "name": "Exeggutor",
+    "HP": 95,
+    "Attack": 95,
+    "Defense": 85,
+    "Sp. Attack": 125,
+    "Sp. Defense": 75,
+    "Speed": 55
+  },
+  {
+    "name": "Cubone",
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 95,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 35
+  },
+  {
+    "name": "Marowak",
+    "HP": 60,
+    "Attack": 80,
+    "Defense": 110,
+    "Sp. Attack": 50,
+    "Sp. Defense": 80,
+    "Speed": 45
+  },
+  {
+    "name": "Hitmonlee",
+    "HP": 50,
+    "Attack": 120,
+    "Defense": 53,
+    "Sp. Attack": 35,
+    "Sp. Defense": 110,
+    "Speed": 87
+  },
+  {
+    "name": "Hitmonchan",
+    "HP": 50,
+    "Attack": 105,
+    "Defense": 79,
+    "Sp. Attack": 35,
+    "Sp. Defense": 110,
+    "Speed": 76
+  },
+  {
+    "name": "Lickitung",
+    "HP": 90,
+    "Attack": 55,
+    "Defense": 75,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 30
+  },
+  {
+    "name": "Koffing",
+    "HP": 40,
+    "Attack": 65,
+    "Defense": 95,
+    "Sp. Attack": 60,
+    "Sp. Defense": 45,
+    "Speed": 35
+  },
+  {
+    "name": "Weezing",
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 120,
+    "Sp. Attack": 85,
+    "Sp. Defense": 70,
+    "Speed": 60
+  },
+  {
+    "name": "Rhyhorn",
+    "HP": 80,
+    "Attack": 85,
+    "Defense": 95,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 25
+  },
+  {
+    "name": "Rhydon",
+    "HP": 105,
+    "Attack": 130,
+    "Defense": 120,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 40
+  },
+  {
+    "name": "Chansey",
+    "HP": 250,
+    "Attack": 5,
+    "Defense": 5,
+    "Sp. Attack": 35,
+    "Sp. Defense": 105,
+    "Speed": 50
+  },
+  {
+    "name": "Tangela",
+    "HP": 65,
+    "Attack": 55,
+    "Defense": 115,
+    "Sp. Attack": 100,
+    "Sp. Defense": 40,
+    "Speed": 60
+  },
+  {
+    "name": "Kangaskhan",
+    "HP": 105,
+    "Attack": 95,
+    "Defense": 80,
+    "Sp. Attack": 40,
+    "Sp. Defense": 80,
+    "Speed": 90
+  },
+  {
+    "name": "Horsea",
+    "HP": 30,
+    "Attack": 40,
+    "Defense": 70,
+    "Sp. Attack": 70,
+    "Sp. Defense": 25,
+    "Speed": 60
+  },
+  {
+    "name": "Seadra",
+    "HP": 55,
+    "Attack": 65,
+    "Defense": 95,
+    "Sp. Attack": 95,
+    "Sp. Defense": 45,
+    "Speed": 85
+  },
+  {
+    "name": "Goldeen",
+    "HP": 45,
+    "Attack": 67,
+    "Defense": 60,
+    "Sp. Attack": 35,
+    "Sp. Defense": 50,
+    "Speed": 63
+  },
+  {
+    "name": "Seaking",
+    "HP": 80,
+    "Attack": 92,
+    "Defense": 65,
+    "Sp. Attack": 65,
+    "Sp. Defense": 80,
+    "Speed": 68
+  },
+  {
+    "name": "Staryu",
+    "HP": 30,
+    "Attack": 45,
+    "Defense": 55,
+    "Sp. Attack": 70,
+    "Sp. Defense": 55,
+    "Speed": 85
+  },
+  {
+    "name": "Starmie",
+    "HP": 60,
+    "Attack": 75,
+    "Defense": 85,
+    "Sp. Attack": 100,
+    "Sp. Defense": 85,
+    "Speed": 115
+  },
+  {
+    "name": "Mr. Mime",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 65,
+    "Sp. Attack": 100,
+    "Sp. Defense": 120,
+    "Speed": 90
+  },
+  {
+    "name": "Scyther",
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 80,
+    "Sp. Attack": 55,
+    "Sp. Defense": 80,
+    "Speed": 105
+  },
+  {
+    "name": "Jynx",
+    "HP": 65,
+    "Attack": 50,
+    "Defense": 35,
+    "Sp. Attack": 115,
+    "Sp. Defense": 95,
+    "Speed": 95
+  },
+  {
+    "name": "Electabuzz",
+    "HP": 65,
+    "Attack": 83,
+    "Defense": 57,
+    "Sp. Attack": 95,
+    "Sp. Defense": 85,
+    "Speed": 105
+  },
+  {
+    "name": "Magmar",
+    "HP": 65,
+    "Attack": 95,
+    "Defense": 57,
+    "Sp. Attack": 100,
+    "Sp. Defense": 85,
+    "Speed": 93
+  },
+  {
+    "name": "Pinsir",
+    "HP": 65,
+    "Attack": 125,
+    "Defense": 100,
+    "Sp. Attack": 55,
+    "Sp. Defense": 70,
+    "Speed": 85
+  },
+  {
+    "name": "Tauros",
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 95,
+    "Sp. Attack": 40,
+    "Sp. Defense": 70,
+    "Speed": 110
+  },
+  {
+    "name": "Magikarp",
+    "HP": 20,
+    "Attack": 10,
+    "Defense": 55,
+    "Sp. Attack": 15,
+    "Sp. Defense": 20,
+    "Speed": 80
+  },
+  {
+    "name": "Gyarados",
+    "HP": 95,
+    "Attack": 125,
+    "Defense": 79,
+    "Sp. Attack": 60,
+    "Sp. Defense": 100,
+    "Speed": 81
+  },
+  {
+    "name": "Lapras",
+    "HP": 130,
+    "Attack": 85,
+    "Defense": 80,
+    "Sp. Attack": 85,
+    "Sp. Defense": 95,
+    "Speed": 60
+  },
+  {
+    "name": "Ditto",
+    "HP": 48,
+    "Attack": 48,
+    "Defense": 48,
+    "Sp. Attack": 48,
+    "Sp. Defense": 48,
+    "Speed": 48
+  },
+  {
+    "name": "Eevee",
+    "HP": 55,
+    "Attack": 55,
+    "Defense": 50,
+    "Sp. Attack": 45,
+    "Sp. Defense": 65,
+    "Speed": 55
+  },
+  {
+    "name": "Vaporeon",
+    "HP": 130,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 110,
+    "Sp. Defense": 95,
+    "Speed": 65
+  },
+  {
+    "name": "Jolteon",
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 110,
+    "Sp. Defense": 95,
+    "Speed": 130
+  },
+  {
+    "name": "Flareon",
+    "HP": 65,
+    "Attack": 130,
+    "Defense": 60,
+    "Sp. Attack": 95,
+    "Sp. Defense": 110,
+    "Speed": 65
+  },
+  {
+    "name": "Porygon",
+    "HP": 65,
+    "Attack": 60,
+    "Defense": 70,
+    "Sp. Attack": 85,
+    "Sp. Defense": 75,
+    "Speed": 40
+  },
+  {
+    "name": "Omanyte",
+    "HP": 35,
+    "Attack": 40,
+    "Defense": 100,
+    "Sp. Attack": 90,
+    "Sp. Defense": 55,
+    "Speed": 35
+  },
+  {
+    "name": "Omastar",
+    "HP": 70,
+    "Attack": 60,
+    "Defense": 125,
+    "Sp. Attack": 115,
+    "Sp. Defense": 70,
+    "Speed": 55
+  },
+  {
+    "name": "Kabuto",
+    "HP": 30,
+    "Attack": 80,
+    "Defense": 90,
+    "Sp. Attack": 55,
+    "Sp. Defense": 45,
+    "Speed": 55
+  },
+  {
+    "name": "Kabutops",
+    "HP": 60,
+    "Attack": 115,
+    "Defense": 105,
+    "Sp. Attack": 65,
+    "Sp. Defense": 70,
+    "Speed": 80
+  },
+  {
+    "name": "Aerodactyl",
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 65,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 130
+  },
+  {
+    "name": "Snorlax",
+    "HP": 160,
+    "Attack": 110,
+    "Defense": 65,
+    "Sp. Attack": 65,
+    "Sp. Defense": 110,
+    "Speed": 30
+  },
+  {
+    "name": "Articuno",
+    "HP": 90,
+    "Attack": 85,
+    "Defense": 100,
+    "Sp. Attack": 95,
+    "Sp. Defense": 125,
+    "Speed": 85
+  },
+  {
+    "name": "Zapdos",
+    "HP": 90,
+    "Attack": 90,
+    "Defense": 85,
+    "Sp. Attack": 125,
+    "Sp. Defense": 90,
+    "Speed": 100
+  },
+  {
+    "name": "Moltres",
+    "HP": 90,
+    "Attack": 100,
+    "Defense": 90,
+    "Sp. Attack": 125,
+    "Sp. Defense": 85,
+    "Speed": 90
+  },
+  {
+    "name": "Dratini",
+    "HP": 41,
+    "Attack": 64,
+    "Defense": 45,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 50
+  },
+  {
+    "name": "Dragonair",
+    "HP": 61,
+    "Attack": 84,
+    "Defense": 65,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  {
+    "name": "Dragonite",
+    "HP": 91,
+    "Attack": 134,
+    "Defense": 95,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 80
+  },
+  {
+    "name": "Mewtwo",
+    "HP": 106,
+    "Attack": 110,
+    "Defense": 90,
+    "Sp. Attack": 154,
+    "Sp. Defense": 90,
+    "Speed": 130
+  },
+  {
+    "name": "Mew",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  {
+    "name": "Chikorita",
+    "HP": 45,
+    "Attack": 49,
+    "Defense": 65,
+    "Sp. Attack": 49,
+    "Sp. Defense": 65,
+    "Speed": 45
+  },
+  {
+    "name": "Bayleef",
+    "HP": 60,
+    "Attack": 62,
+    "Defense": 80,
+    "Sp. Attack": 63,
+    "Sp. Defense": 80,
+    "Speed": 60
+  },
+  {
+    "name": "Meganium",
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 100,
+    "Sp. Attack": 83,
+    "Sp. Defense": 100,
+    "Speed": 80
+  },
+  {
+    "name": "Cyndaquil",
+    "HP": 39,
+    "Attack": 52,
+    "Defense": 43,
+    "Sp. Attack": 60,
+    "Sp. Defense": 50,
+    "Speed": 65
+  },
+  {
+    "name": "Quilava",
+    "HP": 58,
+    "Attack": 64,
+    "Defense": 58,
+    "Sp. Attack": 80,
+    "Sp. Defense": 65,
+    "Speed": 80
+  },
+  {
+    "name": "Typhlosion",
+    "HP": 78,
+    "Attack": 84,
+    "Defense": 78,
+    "Sp. Attack": 109,
+    "Sp. Defense": 85,
+    "Speed": 100
+  },
+  {
+    "name": "Totodile",
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 64,
+    "Sp. Attack": 44,
+    "Sp. Defense": 48,
+    "Speed": 43
+  },
+  {
+    "name": "Croconaw",
+    "HP": 65,
+    "Attack": 80,
+    "Defense": 80,
+    "Sp. Attack": 59,
+    "Sp. Defense": 63,
+    "Speed": 58
+  },
+  {
+    "name": "Feraligatr",
+    "HP": 85,
+    "Attack": 105,
+    "Defense": 100,
+    "Sp. Attack": 79,
+    "Sp. Defense": 83,
+    "Speed": 78
+  },
+  {
+    "name": "Sentret",
+    "HP": 35,
+    "Attack": 46,
+    "Defense": 34,
+    "Sp. Attack": 35,
+    "Sp. Defense": 45,
+    "Speed": 20
+  },
+  {
+    "name": "Furret",
+    "HP": 85,
+    "Attack": 76,
+    "Defense": 64,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 90
+  },
+  {
+    "name": "Hoothoot",
+    "HP": 60,
+    "Attack": 30,
+    "Defense": 30,
+    "Sp. Attack": 36,
+    "Sp. Defense": 56,
+    "Speed": 50
+  },
+  {
+    "name": "Noctowl",
+    "HP": 100,
+    "Attack": 50,
+    "Defense": 50,
+    "Sp. Attack": 86,
+    "Sp. Defense": 96,
+    "Speed": 70
+  },
+  {
+    "name": "Ledyba",
+    "HP": 40,
+    "Attack": 20,
+    "Defense": 30,
+    "Sp. Attack": 40,
+    "Sp. Defense": 80,
+    "Speed": 55
+  },
+  {
+    "name": "Ledian",
+    "HP": 55,
+    "Attack": 35,
+    "Defense": 50,
+    "Sp. Attack": 55,
+    "Sp. Defense": 110,
+    "Speed": 85
+  },
+  {
+    "name": "Spinarak",
+    "HP": 40,
+    "Attack": 60,
+    "Defense": 40,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 30
+  },
+  {
+    "name": "Ariados",
+    "HP": 70,
+    "Attack": 90,
+    "Defense": 70,
+    "Sp. Attack": 60,
+    "Sp. Defense": 70,
+    "Speed": 40
+  },
+  {
+    "name": "Crobat",
+    "HP": 85,
+    "Attack": 90,
+    "Defense": 80,
+    "Sp. Attack": 70,
+    "Sp. Defense": 80,
+    "Speed": 130
+  },
+  {
+    "name": "Chinchou",
+    "HP": 75,
+    "Attack": 38,
+    "Defense": 38,
+    "Sp. Attack": 56,
+    "Sp. Defense": 56,
+    "Speed": 67
+  },
+  {
+    "name": "Lanturn",
+    "HP": 125,
+    "Attack": 58,
+    "Defense": 58,
+    "Sp. Attack": 76,
+    "Sp. Defense": 76,
+    "Speed": 67
+  },
+  {
+    "name": "Pichu",
+    "HP": 20,
+    "Attack": 40,
+    "Defense": 15,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 60
+  },
+  {
+    "name": "Cleffa",
+    "HP": 50,
+    "Attack": 25,
+    "Defense": 28,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 15
+  },
+  {
+    "name": "Igglybuff",
+    "HP": 90,
+    "Attack": 30,
+    "Defense": 15,
+    "Sp. Attack": 40,
+    "Sp. Defense": 20,
+    "Speed": 15
+  },
+  {
+    "name": "Togepi",
+    "HP": 35,
+    "Attack": 20,
+    "Defense": 65,
+    "Sp. Attack": 40,
+    "Sp. Defense": 65,
+    "Speed": 20
+  },
+  {
+    "name": "Togetic",
+    "HP": 55,
+    "Attack": 40,
+    "Defense": 85,
+    "Sp. Attack": 80,
+    "Sp. Defense": 105,
+    "Speed": 40
+  },
+  {
+    "name": "Natu",
+    "HP": 40,
+    "Attack": 50,
+    "Defense": 45,
+    "Sp. Attack": 70,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  {
+    "name": "Xatu",
+    "HP": 65,
+    "Attack": 75,
+    "Defense": 70,
+    "Sp. Attack": 95,
+    "Sp. Defense": 70,
+    "Speed": 95
+  },
+  {
+    "name": "Mareep",
+    "HP": 55,
+    "Attack": 40,
+    "Defense": 40,
+    "Sp. Attack": 65,
+    "Sp. Defense": 45,
+    "Speed": 35
+  },
+  {
+    "name": "Flaaffy",
+    "HP": 70,
+    "Attack": 55,
+    "Defense": 55,
+    "Sp. Attack": 80,
+    "Sp. Defense": 60,
+    "Speed": 45
+  },
+  {
+    "name": "Ampharos",
+    "HP": 90,
+    "Attack": 75,
+    "Defense": 85,
+    "Sp. Attack": 115,
+    "Sp. Defense": 90,
+    "Speed": 55
+  },
+  {
+    "name": "Bellossom",
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 95,
+    "Sp. Attack": 90,
+    "Sp. Defense": 100,
+    "Speed": 50
+  },
+  {
+    "name": "Marill",
+    "HP": 70,
+    "Attack": 20,
+    "Defense": 50,
+    "Sp. Attack": 20,
+    "Sp. Defense": 50,
+    "Speed": 40
+  },
+  {
+    "name": "Azumarill",
+    "HP": 100,
+    "Attack": 50,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 80,
+    "Speed": 50
+  },
+  {
+    "name": "Sudowoodo",
+    "HP": 70,
+    "Attack": 100,
+    "Defense": 115,
+    "Sp. Attack": 30,
+    "Sp. Defense": 65,
+    "Speed": 30
+  },
+  {
+    "name": "Politoed",
+    "HP": 90,
+    "Attack": 75,
+    "Defense": 75,
+    "Sp. Attack": 90,
+    "Sp. Defense": 100,
+    "Speed": 70
+  },
+  {
+    "name": "Hoppip",
+    "HP": 35,
+    "Attack": 35,
+    "Defense": 40,
+    "Sp. Attack": 35,
+    "Sp. Defense": 55,
+    "Speed": 50
+  },
+  {
+    "name": "Skiploom",
+    "HP": 55,
+    "Attack": 45,
+    "Defense": 50,
+    "Sp. Attack": 45,
+    "Sp. Defense": 65,
+    "Speed": 80
+  },
+  {
+    "name": "Jumpluff",
+    "HP": 75,
+    "Attack": 55,
+    "Defense": 70,
+    "Sp. Attack": 55,
+    "Sp. Defense": 95,
+    "Speed": 110
+  },
+  {
+    "name": "Aipom",
+    "HP": 55,
+    "Attack": 70,
+    "Defense": 55,
+    "Sp. Attack": 40,
+    "Sp. Defense": 55,
+    "Speed": 85
+  },
+  {
+    "name": "Sunkern",
+    "HP": 30,
+    "Attack": 30,
+    "Defense": 30,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 30
+  },
+  {
+    "name": "Sunflora",
+    "HP": 75,
+    "Attack": 75,
+    "Defense": 55,
+    "Sp. Attack": 105,
+    "Sp. Defense": 85,
+    "Speed": 30
+  },
+  {
+    "name": "Yanma",
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 45,
+    "Sp. Attack": 75,
+    "Sp. Defense": 45,
+    "Speed": 95
+  },
+  {
+    "name": "Wooper",
+    "HP": 55,
+    "Attack": 45,
+    "Defense": 45,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 15
+  },
+  {
+    "name": "Quagsire",
+    "HP": 95,
+    "Attack": 85,
+    "Defense": 85,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 35
+  },
+  {
+    "name": "Espeon",
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 130,
+    "Sp. Defense": 95,
+    "Speed": 110
+  },
+  {
+    "name": "Umbreon",
+    "HP": 95,
+    "Attack": 65,
+    "Defense": 110,
+    "Sp. Attack": 60,
+    "Sp. Defense": 130,
+    "Speed": 65
+  },
+  {
+    "name": "Murkrow",
+    "HP": 60,
+    "Attack": 85,
+    "Defense": 42,
+    "Sp. Attack": 85,
+    "Sp. Defense": 42,
+    "Speed": 91
+  },
+  {
+    "name": "Slowking",
+    "HP": 95,
+    "Attack": 75,
+    "Defense": 80,
+    "Sp. Attack": 100,
+    "Sp. Defense": 110,
+    "Speed": 30
+  },
+  {
+    "name": "Misdreavus",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 60,
+    "Sp. Attack": 85,
+    "Sp. Defense": 85,
+    "Speed": 85
+  },
+  {
+    "name": "Unown",
+    "HP": 48,
+    "Attack": 72,
+    "Defense": 48,
+    "Sp. Attack": 72,
+    "Sp. Defense": 48,
+    "Speed": 48
+  },
+  {
+    "name": "Wobbuffet",
+    "HP": 190,
+    "Attack": 33,
+    "Defense": 58,
+    "Sp. Attack": 33,
+    "Sp. Defense": 58,
+    "Speed": 33
+  },
+  {
+    "name": "Girafarig",
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 65,
+    "Sp. Attack": 90,
+    "Sp. Defense": 65,
+    "Speed": 85
+  },
+  {
+    "name": "Pineco",
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 90,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 15
+  },
+  {
+    "name": "Forretress",
+    "HP": 75,
+    "Attack": 90,
+    "Defense": 140,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 40
+  },
+  {
+    "name": "Dunsparce",
+    "HP": 100,
+    "Attack": 70,
+    "Defense": 70,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 45
+  },
+  {
+    "name": "Gligar",
+    "HP": 65,
+    "Attack": 75,
+    "Defense": 105,
+    "Sp. Attack": 35,
+    "Sp. Defense": 65,
+    "Speed": 85
+  },
+  {
+    "name": "Steelix",
+    "HP": 75,
+    "Attack": 85,
+    "Defense": 200,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 30
+  },
+  {
+    "name": "Snubbull",
+    "HP": 60,
+    "Attack": 80,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 30
+  },
+  {
+    "name": "Granbull",
+    "HP": 90,
+    "Attack": 120,
+    "Defense": 75,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 45
+  },
+  {
+    "name": "Qwilfish",
+    "HP": 65,
+    "Attack": 95,
+    "Defense": 85,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 85
+  },
+  {
+    "name": "Scizor",
+    "HP": 70,
+    "Attack": 130,
+    "Defense": 100,
+    "Sp. Attack": 55,
+    "Sp. Defense": 80,
+    "Speed": 65
+  },
+  {
+    "name": "Shuckle",
+    "HP": 20,
+    "Attack": 10,
+    "Defense": 230,
+    "Sp. Attack": 10,
+    "Sp. Defense": 230,
+    "Speed": 5
+  },
+  {
+    "name": "Heracross",
+    "HP": 80,
+    "Attack": 125,
+    "Defense": 75,
+    "Sp. Attack": 40,
+    "Sp. Defense": 95,
+    "Speed": 85
+  },
+  {
+    "name": "Sneasel",
+    "HP": 55,
+    "Attack": 95,
+    "Defense": 55,
+    "Sp. Attack": 35,
+    "Sp. Defense": 75,
+    "Speed": 115
+  },
+  {
+    "name": "Teddiursa",
+    "HP": 60,
+    "Attack": 80,
+    "Defense": 50,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 40
+  },
+  {
+    "name": "Ursaring",
+    "HP": 90,
+    "Attack": 130,
+    "Defense": 75,
+    "Sp. Attack": 75,
+    "Sp. Defense": 75,
+    "Speed": 55
+  },
+  {
+    "name": "Slugma",
+    "HP": 40,
+    "Attack": 40,
+    "Defense": 40,
+    "Sp. Attack": 70,
+    "Sp. Defense": 40,
+    "Speed": 20
+  },
+  {
+    "name": "Magcargo",
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 120,
+    "Sp. Attack": 90,
+    "Sp. Defense": 80,
+    "Speed": 30
+  },
+  {
+    "name": "Swinub",
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 40,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 50
+  },
+  {
+    "name": "Piloswine",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 50
+  },
+  {
+    "name": "Corsola",
+    "HP": 65,
+    "Attack": 55,
+    "Defense": 95,
+    "Sp. Attack": 65,
+    "Sp. Defense": 95,
+    "Speed": 35
+  },
+  {
+    "name": "Remoraid",
+    "HP": 35,
+    "Attack": 65,
+    "Defense": 35,
+    "Sp. Attack": 65,
+    "Sp. Defense": 35,
+    "Speed": 65
+  },
+  {
+    "name": "Octillery",
+    "HP": 75,
+    "Attack": 105,
+    "Defense": 75,
+    "Sp. Attack": 105,
+    "Sp. Defense": 75,
+    "Speed": 45
+  },
+  {
+    "name": "Delibird",
+    "HP": 45,
+    "Attack": 55,
+    "Defense": 45,
+    "Sp. Attack": 65,
+    "Sp. Defense": 45,
+    "Speed": 75
+  },
+  {
+    "name": "Mantine",
+    "HP": 85,
+    "Attack": 40,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 140,
+    "Speed": 70
+  },
+  {
+    "name": "Skarmory",
+    "HP": 65,
+    "Attack": 80,
+    "Defense": 140,
+    "Sp. Attack": 40,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  {
+    "name": "Houndour",
+    "HP": 45,
+    "Attack": 60,
+    "Defense": 30,
+    "Sp. Attack": 80,
+    "Sp. Defense": 50,
+    "Speed": 65
+  },
+  {
+    "name": "Houndoom",
+    "HP": 75,
+    "Attack": 90,
+    "Defense": 50,
+    "Sp. Attack": 110,
+    "Sp. Defense": 80,
+    "Speed": 95
+  },
+  {
+    "name": "Kingdra",
+    "HP": 75,
+    "Attack": 95,
+    "Defense": 95,
+    "Sp. Attack": 95,
+    "Sp. Defense": 95,
+    "Speed": 85
+  },
+  {
+    "name": "Phanpy",
+    "HP": 90,
+    "Attack": 60,
+    "Defense": 60,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 40
+  },
+  {
+    "name": "Donphan",
+    "HP": 90,
+    "Attack": 120,
+    "Defense": 120,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 50
+  },
+  {
+    "name": "Porygon2",
+    "HP": 85,
+    "Attack": 80,
+    "Defense": 90,
+    "Sp. Attack": 105,
+    "Sp. Defense": 95,
+    "Speed": 60
+  },
+  {
+    "name": "Stantler",
+    "HP": 73,
+    "Attack": 95,
+    "Defense": 62,
+    "Sp. Attack": 85,
+    "Sp. Defense": 65,
+    "Speed": 85
+  },
+  {
+    "name": "Smeargle",
+    "HP": 55,
+    "Attack": 20,
+    "Defense": 35,
+    "Sp. Attack": 20,
+    "Sp. Defense": 45,
+    "Speed": 75
+  },
+  {
+    "name": "Tyrogue",
+    "HP": 35,
+    "Attack": 35,
+    "Defense": 35,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 35
+  },
+  {
+    "name": "Hitmontop",
+    "HP": 50,
+    "Attack": 95,
+    "Defense": 95,
+    "Sp. Attack": 35,
+    "Sp. Defense": 110,
+    "Speed": 70
+  },
+  {
+    "name": "Smoochum",
+    "HP": 45,
+    "Attack": 30,
+    "Defense": 15,
+    "Sp. Attack": 85,
+    "Sp. Defense": 65,
+    "Speed": 65
+  },
+  {
+    "name": "Elekid",
+    "HP": 45,
+    "Attack": 63,
+    "Defense": 37,
+    "Sp. Attack": 65,
+    "Sp. Defense": 55,
+    "Speed": 95
+  },
+  {
+    "name": "Magby",
+    "HP": 45,
+    "Attack": 75,
+    "Defense": 37,
+    "Sp. Attack": 70,
+    "Sp. Defense": 55,
+    "Speed": 83
+  },
+  {
+    "name": "Miltank",
+    "HP": 95,
+    "Attack": 80,
+    "Defense": 105,
+    "Sp. Attack": 40,
+    "Sp. Defense": 70,
+    "Speed": 100
+  },
+  {
+    "name": "Blissey",
+    "HP": 255,
+    "Attack": 10,
+    "Defense": 10,
+    "Sp. Attack": 75,
+    "Sp. Defense": 135,
+    "Speed": 55
+  },
+  {
+    "name": "Raikou",
+    "HP": 90,
+    "Attack": 85,
+    "Defense": 75,
+    "Sp. Attack": 115,
+    "Sp. Defense": 100,
+    "Speed": 115
+  },
+  {
+    "name": "Entei",
+    "HP": 115,
+    "Attack": 115,
+    "Defense": 85,
+    "Sp. Attack": 90,
+    "Sp. Defense": 75,
+    "Speed": 100
+  },
+  {
+    "name": "Suicune",
+    "HP": 100,
+    "Attack": 75,
+    "Defense": 115,
+    "Sp. Attack": 90,
+    "Sp. Defense": 115,
+    "Speed": 85
+  },
+  {
+    "name": "Larvitar",
+    "HP": 50,
+    "Attack": 64,
+    "Defense": 50,
+    "Sp. Attack": 45,
+    "Sp. Defense": 50,
+    "Speed": 41
+  },
+  {
+    "name": "Pupitar",
+    "HP": 70,
+    "Attack": 84,
+    "Defense": 70,
+    "Sp. Attack": 65,
+    "Sp. Defense": 70,
+    "Speed": 51
+  },
+  {
+    "name": "Tyranitar",
+    "HP": 100,
+    "Attack": 134,
+    "Defense": 110,
+    "Sp. Attack": 95,
+    "Sp. Defense": 100,
+    "Speed": 61
+  },
+  {
+    "name": "Lugia",
+    "HP": 106,
+    "Attack": 90,
+    "Defense": 130,
+    "Sp. Attack": 90,
+    "Sp. Defense": 154,
+    "Speed": 110
+  },
+  {
+    "name": "Ho-Oh",
+    "HP": 106,
+    "Attack": 130,
+    "Defense": 90,
+    "Sp. Attack": 110,
+    "Sp. Defense": 154,
+    "Speed": 90
+  },
+  {
+    "name": "Celebi",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  {
+    "name": "Treecko",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 35,
+    "Sp. Attack": 65,
+    "Sp. Defense": 55,
+    "Speed": 70
+  },
+  {
+    "name": "Grovyle",
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 45,
+    "Sp. Attack": 85,
+    "Sp. Defense": 65,
+    "Speed": 95
+  },
+  {
+    "name": "Sceptile",
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 65,
+    "Sp. Attack": 105,
+    "Sp. Defense": 85,
+    "Speed": 120
+  },
+  {
+    "name": "Torchic",
+    "HP": 45,
+    "Attack": 60,
+    "Defense": 40,
+    "Sp. Attack": 70,
+    "Sp. Defense": 50,
+    "Speed": 45
+  },
+  {
+    "name": "Combusken",
+    "HP": 60,
+    "Attack": 85,
+    "Defense": 60,
+    "Sp. Attack": 85,
+    "Sp. Defense": 60,
+    "Speed": 55
+  },
+  {
+    "name": "Blaziken",
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 70,
+    "Sp. Attack": 110,
+    "Sp. Defense": 70,
+    "Speed": 80
+  },
+  {
+    "name": "Mudkip",
+    "HP": 50,
+    "Attack": 70,
+    "Defense": 50,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 40
+  },
+  {
+    "name": "Marshtomp",
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 70,
+    "Sp. Attack": 60,
+    "Sp. Defense": 70,
+    "Speed": 50
+  },
+  {
+    "name": "Swampert",
+    "HP": 100,
+    "Attack": 110,
+    "Defense": 90,
+    "Sp. Attack": 85,
+    "Sp. Defense": 90,
+    "Speed": 60
+  },
+  {
+    "name": "Poochyena",
+    "HP": 35,
+    "Attack": 55,
+    "Defense": 35,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 35
+  },
+  {
+    "name": "Mightyena",
+    "HP": 70,
+    "Attack": 90,
+    "Defense": 70,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 70
+  },
+  {
+    "name": "Zigzagoon",
+    "HP": 38,
+    "Attack": 30,
+    "Defense": 41,
+    "Sp. Attack": 30,
+    "Sp. Defense": 41,
+    "Speed": 60
+  },
+  {
+    "name": "Linoone",
+    "HP": 78,
+    "Attack": 70,
+    "Defense": 61,
+    "Sp. Attack": 50,
+    "Sp. Defense": 61,
+    "Speed": 100
+  },
+  {
+    "name": "Wurmple",
+    "HP": 45,
+    "Attack": 45,
+    "Defense": 35,
+    "Sp. Attack": 20,
+    "Sp. Defense": 30,
+    "Speed": 20
+  },
+  {
+    "name": "Silcoon",
+    "HP": 50,
+    "Attack": 35,
+    "Defense": 55,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 15
+  },
+  {
+    "name": "Beautifly",
+    "HP": 60,
+    "Attack": 70,
+    "Defense": 50,
+    "Sp. Attack": 100,
+    "Sp. Defense": 50,
+    "Speed": 65
+  },
+  {
+    "name": "Cascoon",
+    "HP": 50,
+    "Attack": 35,
+    "Defense": 55,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 15
+  },
+  {
+    "name": "Dustox",
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 70,
+    "Sp. Attack": 50,
+    "Sp. Defense": 90,
+    "Speed": 65
+  },
+  {
+    "name": "Lotad",
+    "HP": 40,
+    "Attack": 30,
+    "Defense": 30,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 30
+  },
+  {
+    "name": "Lombre",
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 50,
+    "Sp. Attack": 60,
+    "Sp. Defense": 70,
+    "Speed": 50
+  },
+  {
+    "name": "Ludicolo",
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 70,
+    "Sp. Attack": 90,
+    "Sp. Defense": 100,
+    "Speed": 70
+  },
+  {
+    "name": "Seedot",
+    "HP": 40,
+    "Attack": 40,
+    "Defense": 50,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 30
+  },
+  {
+    "name": "Nuzleaf",
+    "HP": 70,
+    "Attack": 70,
+    "Defense": 40,
+    "Sp. Attack": 60,
+    "Sp. Defense": 40,
+    "Speed": 60
+  },
+  {
+    "name": "Shiftry",
+    "HP": 90,
+    "Attack": 100,
+    "Defense": 60,
+    "Sp. Attack": 90,
+    "Sp. Defense": 60,
+    "Speed": 80
+  },
+  {
+    "name": "Taillow",
+    "HP": 40,
+    "Attack": 55,
+    "Defense": 30,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 85
+  },
+  {
+    "name": "Swellow",
+    "HP": 60,
+    "Attack": 85,
+    "Defense": 60,
+    "Sp. Attack": 75,
+    "Sp. Defense": 50,
+    "Speed": 125
+  },
+  {
+    "name": "Wingull",
+    "HP": 40,
+    "Attack": 30,
+    "Defense": 30,
+    "Sp. Attack": 55,
+    "Sp. Defense": 30,
+    "Speed": 85
+  },
+  {
+    "name": "Pelipper",
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 100,
+    "Sp. Attack": 95,
+    "Sp. Defense": 70,
+    "Speed": 65
+  },
+  {
+    "name": "Ralts",
+    "HP": 28,
+    "Attack": 25,
+    "Defense": 25,
+    "Sp. Attack": 45,
+    "Sp. Defense": 35,
+    "Speed": 40
+  },
+  {
+    "name": "Kirlia",
+    "HP": 38,
+    "Attack": 35,
+    "Defense": 35,
+    "Sp. Attack": 65,
+    "Sp. Defense": 55,
+    "Speed": 50
+  },
+  {
+    "name": "Gardevoir",
+    "HP": 68,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 125,
+    "Sp. Defense": 115,
+    "Speed": 80
+  },
+  {
+    "name": "Surskit",
+    "HP": 40,
+    "Attack": 30,
+    "Defense": 32,
+    "Sp. Attack": 50,
+    "Sp. Defense": 52,
+    "Speed": 65
+  },
+  {
+    "name": "Masquerain",
+    "HP": 70,
+    "Attack": 60,
+    "Defense": 62,
+    "Sp. Attack": 100,
+    "Sp. Defense": 82,
+    "Speed": 80
+  },
+  {
+    "name": "Shroomish",
+    "HP": 60,
+    "Attack": 40,
+    "Defense": 60,
+    "Sp. Attack": 40,
+    "Sp. Defense": 60,
+    "Speed": 35
+  },
+  {
+    "name": "Breloom",
+    "HP": 60,
+    "Attack": 130,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 70
+  },
+  {
+    "name": "Slakoth",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 60,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 30
+  },
+  {
+    "name": "Vigoroth",
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 80,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 90
+  },
+  {
+    "name": "Slaking",
+    "HP": 150,
+    "Attack": 160,
+    "Defense": 100,
+    "Sp. Attack": 95,
+    "Sp. Defense": 65,
+    "Speed": 100
+  },
+  {
+    "name": "Nincada",
+    "HP": 31,
+    "Attack": 45,
+    "Defense": 90,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 40
+  },
+  {
+    "name": "Ninjask",
+    "HP": 61,
+    "Attack": 90,
+    "Defense": 45,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 160
+  },
+  {
+    "name": "Shedinja",
+    "HP": 1,
+    "Attack": 90,
+    "Defense": 45,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 40
+  },
+  {
+    "name": "Whismur",
+    "HP": 64,
+    "Attack": 51,
+    "Defense": 23,
+    "Sp. Attack": 51,
+    "Sp. Defense": 23,
+    "Speed": 28
+  },
+  {
+    "name": "Loudred",
+    "HP": 84,
+    "Attack": 71,
+    "Defense": 43,
+    "Sp. Attack": 71,
+    "Sp. Defense": 43,
+    "Speed": 48
+  },
+  {
+    "name": "Exploud",
+    "HP": 104,
+    "Attack": 91,
+    "Defense": 63,
+    "Sp. Attack": 91,
+    "Sp. Defense": 73,
+    "Speed": 68
+  },
+  {
+    "name": "Makuhita",
+    "HP": 72,
+    "Attack": 60,
+    "Defense": 30,
+    "Sp. Attack": 20,
+    "Sp. Defense": 30,
+    "Speed": 25
+  },
+  {
+    "name": "Hariyama",
+    "HP": 144,
+    "Attack": 120,
+    "Defense": 60,
+    "Sp. Attack": 40,
+    "Sp. Defense": 60,
+    "Speed": 50
+  },
+  {
+    "name": "Azurill",
+    "HP": 50,
+    "Attack": 20,
+    "Defense": 40,
+    "Sp. Attack": 20,
+    "Sp. Defense": 40,
+    "Speed": 20
+  },
+  {
+    "name": "Nosepass",
+    "HP": 30,
+    "Attack": 45,
+    "Defense": 135,
+    "Sp. Attack": 45,
+    "Sp. Defense": 90,
+    "Speed": 30
+  },
+  {
+    "name": "Skitty",
+    "HP": 50,
+    "Attack": 45,
+    "Defense": 45,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 50
+  },
+  {
+    "name": "Delcatty",
+    "HP": 70,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 90
+  },
+  {
+    "name": "Sableye",
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 75,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 50
+  },
+  {
+    "name": "Mawile",
+    "HP": 50,
+    "Attack": 85,
+    "Defense": 85,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 50
+  },
+  {
+    "name": "Aron",
+    "HP": 50,
+    "Attack": 70,
+    "Defense": 100,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 30
+  },
+  {
+    "name": "Lairon",
+    "HP": 60,
+    "Attack": 90,
+    "Defense": 140,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 40
+  },
+  {
+    "name": "Aggron",
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 180,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 50
+  },
+  {
+    "name": "Meditite",
+    "HP": 30,
+    "Attack": 40,
+    "Defense": 55,
+    "Sp. Attack": 40,
+    "Sp. Defense": 55,
+    "Speed": 60
+  },
+  {
+    "name": "Medicham",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 75,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 80
+  },
+  {
+    "name": "Electrike",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 40,
+    "Sp. Attack": 65,
+    "Sp. Defense": 40,
+    "Speed": 65
+  },
+  {
+    "name": "Manectric",
+    "HP": 70,
+    "Attack": 75,
+    "Defense": 60,
+    "Sp. Attack": 105,
+    "Sp. Defense": 60,
+    "Speed": 105
+  },
+  {
+    "name": "Plusle",
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 40,
+    "Sp. Attack": 85,
+    "Sp. Defense": 75,
+    "Speed": 95
+  },
+  {
+    "name": "Minun",
+    "HP": 60,
+    "Attack": 40,
+    "Defense": 50,
+    "Sp. Attack": 75,
+    "Sp. Defense": 85,
+    "Speed": 95
+  },
+  {
+    "name": "Volbeat",
+    "HP": 65,
+    "Attack": 73,
+    "Defense": 75,
+    "Sp. Attack": 47,
+    "Sp. Defense": 85,
+    "Speed": 85
+  },
+  {
+    "name": "Illumise",
+    "HP": 65,
+    "Attack": 47,
+    "Defense": 75,
+    "Sp. Attack": 73,
+    "Sp. Defense": 85,
+    "Speed": 85
+  },
+  {
+    "name": "Roselia",
+    "HP": 50,
+    "Attack": 60,
+    "Defense": 45,
+    "Sp. Attack": 100,
+    "Sp. Defense": 80,
+    "Speed": 65
+  },
+  {
+    "name": "Gulpin",
+    "HP": 70,
+    "Attack": 43,
+    "Defense": 53,
+    "Sp. Attack": 43,
+    "Sp. Defense": 53,
+    "Speed": 40
+  },
+  {
+    "name": "Swalot",
+    "HP": 100,
+    "Attack": 73,
+    "Defense": 83,
+    "Sp. Attack": 73,
+    "Sp. Defense": 83,
+    "Speed": 55
+  },
+  {
+    "name": "Carvanha",
+    "HP": 45,
+    "Attack": 90,
+    "Defense": 20,
+    "Sp. Attack": 65,
+    "Sp. Defense": 20,
+    "Speed": 65
+  },
+  {
+    "name": "Sharpedo",
+    "HP": 70,
+    "Attack": 120,
+    "Defense": 40,
+    "Sp. Attack": 95,
+    "Sp. Defense": 40,
+    "Speed": 95
+  },
+  {
+    "name": "Wailmer",
+    "HP": 130,
+    "Attack": 70,
+    "Defense": 35,
+    "Sp. Attack": 70,
+    "Sp. Defense": 35,
+    "Speed": 60
+  },
+  {
+    "name": "Wailord",
+    "HP": 170,
+    "Attack": 90,
+    "Defense": 45,
+    "Sp. Attack": 90,
+    "Sp. Defense": 45,
+    "Speed": 60
+  },
+  {
+    "name": "Numel",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 40,
+    "Sp. Attack": 65,
+    "Sp. Defense": 45,
+    "Speed": 35
+  },
+  {
+    "name": "Camerupt",
+    "HP": 70,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 105,
+    "Sp. Defense": 75,
+    "Speed": 40
+  },
+  {
+    "name": "Torkoal",
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 140,
+    "Sp. Attack": 85,
+    "Sp. Defense": 70,
+    "Speed": 20
+  },
+  {
+    "name": "Spoink",
+    "HP": 60,
+    "Attack": 25,
+    "Defense": 35,
+    "Sp. Attack": 70,
+    "Sp. Defense": 80,
+    "Speed": 60
+  },
+  {
+    "name": "Grumpig",
+    "HP": 80,
+    "Attack": 45,
+    "Defense": 65,
+    "Sp. Attack": 90,
+    "Sp. Defense": 110,
+    "Speed": 80
+  },
+  {
+    "name": "Spinda",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 60,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 60
+  },
+  {
+    "name": "Trapinch",
+    "HP": 45,
+    "Attack": 100,
+    "Defense": 45,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 10
+  },
+  {
+    "name": "Vibrava",
+    "HP": 50,
+    "Attack": 70,
+    "Defense": 50,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 70
+  },
+  {
+    "name": "Flygon",
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 80,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 100
+  },
+  {
+    "name": "Cacnea",
+    "HP": 50,
+    "Attack": 85,
+    "Defense": 40,
+    "Sp. Attack": 85,
+    "Sp. Defense": 40,
+    "Speed": 35
+  },
+  {
+    "name": "Cacturne",
+    "HP": 70,
+    "Attack": 115,
+    "Defense": 60,
+    "Sp. Attack": 115,
+    "Sp. Defense": 60,
+    "Speed": 55
+  },
+  {
+    "name": "Swablu",
+    "HP": 45,
+    "Attack": 40,
+    "Defense": 60,
+    "Sp. Attack": 40,
+    "Sp. Defense": 75,
+    "Speed": 50
+  },
+  {
+    "name": "Altaria",
+    "HP": 75,
+    "Attack": 70,
+    "Defense": 90,
+    "Sp. Attack": 70,
+    "Sp. Defense": 105,
+    "Speed": 80
+  },
+  {
+    "name": "Zangoose",
+    "HP": 73,
+    "Attack": 115,
+    "Defense": 60,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 90
+  },
+  {
+    "name": "Seviper",
+    "HP": 73,
+    "Attack": 100,
+    "Defense": 60,
+    "Sp. Attack": 100,
+    "Sp. Defense": 60,
+    "Speed": 65
+  },
+  {
+    "name": "Lunatone",
+    "HP": 90,
+    "Attack": 55,
+    "Defense": 65,
+    "Sp. Attack": 95,
+    "Sp. Defense": 85,
+    "Speed": 70
+  },
+  {
+    "name": "Solrock",
+    "HP": 90,
+    "Attack": 95,
+    "Defense": 85,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 70
+  },
+  {
+    "name": "Barboach",
+    "HP": 50,
+    "Attack": 48,
+    "Defense": 43,
+    "Sp. Attack": 46,
+    "Sp. Defense": 41,
+    "Speed": 60
+  },
+  {
+    "name": "Whiscash",
+    "HP": 110,
+    "Attack": 78,
+    "Defense": 73,
+    "Sp. Attack": 76,
+    "Sp. Defense": 71,
+    "Speed": 60
+  },
+  {
+    "name": "Corphish",
+    "HP": 43,
+    "Attack": 80,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 35,
+    "Speed": 35
+  },
+  {
+    "name": "Crawdaunt",
+    "HP": 63,
+    "Attack": 120,
+    "Defense": 85,
+    "Sp. Attack": 90,
+    "Sp. Defense": 55,
+    "Speed": 55
+  },
+  {
+    "name": "Baltoy",
+    "HP": 40,
+    "Attack": 40,
+    "Defense": 55,
+    "Sp. Attack": 40,
+    "Sp. Defense": 70,
+    "Speed": 55
+  },
+  {
+    "name": "Claydol",
+    "HP": 60,
+    "Attack": 70,
+    "Defense": 105,
+    "Sp. Attack": 70,
+    "Sp. Defense": 120,
+    "Speed": 75
+  },
+  {
+    "name": "Lileep",
+    "HP": 66,
+    "Attack": 41,
+    "Defense": 77,
+    "Sp. Attack": 61,
+    "Sp. Defense": 87,
+    "Speed": 23
+  },
+  {
+    "name": "Cradily",
+    "HP": 86,
+    "Attack": 81,
+    "Defense": 97,
+    "Sp. Attack": 81,
+    "Sp. Defense": 107,
+    "Speed": 43
+  },
+  {
+    "name": "Anorith",
+    "HP": 45,
+    "Attack": 95,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 75
+  },
+  {
+    "name": "Armaldo",
+    "HP": 75,
+    "Attack": 125,
+    "Defense": 100,
+    "Sp. Attack": 70,
+    "Sp. Defense": 80,
+    "Speed": 45
+  },
+  {
+    "name": "Feebas",
+    "HP": 20,
+    "Attack": 15,
+    "Defense": 20,
+    "Sp. Attack": 10,
+    "Sp. Defense": 55,
+    "Speed": 80
+  },
+  {
+    "name": "Milotic",
+    "HP": 95,
+    "Attack": 60,
+    "Defense": 79,
+    "Sp. Attack": 100,
+    "Sp. Defense": 125,
+    "Speed": 81
+  },
+  {
+    "name": "Castform",
+    "HP": 70,
+    "Attack": 70,
+    "Defense": 70,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  {
+    "name": "Kecleon",
+    "HP": 60,
+    "Attack": 90,
+    "Defense": 70,
+    "Sp. Attack": 60,
+    "Sp. Defense": 120,
+    "Speed": 40
+  },
+  {
+    "name": "Shuppet",
+    "HP": 44,
+    "Attack": 75,
+    "Defense": 35,
+    "Sp. Attack": 63,
+    "Sp. Defense": 33,
+    "Speed": 45
+  },
+  {
+    "name": "Banette",
+    "HP": 64,
+    "Attack": 115,
+    "Defense": 65,
+    "Sp. Attack": 83,
+    "Sp. Defense": 63,
+    "Speed": 65
+  },
+  {
+    "name": "Duskull",
+    "HP": 20,
+    "Attack": 40,
+    "Defense": 90,
+    "Sp. Attack": 30,
+    "Sp. Defense": 90,
+    "Speed": 25
+  },
+  {
+    "name": "Dusclops",
+    "HP": 40,
+    "Attack": 70,
+    "Defense": 130,
+    "Sp. Attack": 60,
+    "Sp. Defense": 130,
+    "Speed": 25
+  },
+  {
+    "name": "Tropius",
+    "HP": 99,
+    "Attack": 68,
+    "Defense": 83,
+    "Sp. Attack": 72,
+    "Sp. Defense": 87,
+    "Speed": 51
+  },
+  {
+    "name": "Chimecho",
+    "HP": 75,
+    "Attack": 50,
+    "Defense": 80,
+    "Sp. Attack": 95,
+    "Sp. Defense": 90,
+    "Speed": 65
+  },
+  {
+    "name": "Absol",
+    "HP": 65,
+    "Attack": 130,
+    "Defense": 60,
+    "Sp. Attack": 75,
+    "Sp. Defense": 60,
+    "Speed": 75
+  },
+  {
+    "name": "Wynaut",
+    "HP": 95,
+    "Attack": 23,
+    "Defense": 48,
+    "Sp. Attack": 23,
+    "Sp. Defense": 48,
+    "Speed": 23
+  },
+  {
+    "name": "Snorunt",
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 50,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 50
+  },
+  {
+    "name": "Glalie",
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 80,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 80
+  },
+  {
+    "name": "Spheal",
+    "HP": 70,
+    "Attack": 40,
+    "Defense": 50,
+    "Sp. Attack": 55,
+    "Sp. Defense": 50,
+    "Speed": 25
+  },
+  {
+    "name": "Sealeo",
+    "HP": 90,
+    "Attack": 60,
+    "Defense": 70,
+    "Sp. Attack": 75,
+    "Sp. Defense": 70,
+    "Speed": 45
+  },
+  {
+    "name": "Walrein",
+    "HP": 110,
+    "Attack": 80,
+    "Defense": 90,
+    "Sp. Attack": 95,
+    "Sp. Defense": 90,
+    "Speed": 65
+  },
+  {
+    "name": "Clamperl",
+    "HP": 35,
+    "Attack": 64,
+    "Defense": 85,
+    "Sp. Attack": 74,
+    "Sp. Defense": 55,
+    "Speed": 32
+  },
+  {
+    "name": "Huntail",
+    "HP": 55,
+    "Attack": 104,
+    "Defense": 105,
+    "Sp. Attack": 94,
+    "Sp. Defense": 75,
+    "Speed": 52
+  },
+  {
+    "name": "Gorebyss",
+    "HP": 55,
+    "Attack": 84,
+    "Defense": 105,
+    "Sp. Attack": 114,
+    "Sp. Defense": 75,
+    "Speed": 52
+  },
+  {
+    "name": "Relicanth",
+    "HP": 100,
+    "Attack": 90,
+    "Defense": 130,
+    "Sp. Attack": 45,
+    "Sp. Defense": 65,
+    "Speed": 55
+  },
+  {
+    "name": "Luvdisc",
+    "HP": 43,
+    "Attack": 30,
+    "Defense": 55,
+    "Sp. Attack": 40,
+    "Sp. Defense": 65,
+    "Speed": 97
+  },
+  {
+    "name": "Bagon",
+    "HP": 45,
+    "Attack": 75,
+    "Defense": 60,
+    "Sp. Attack": 40,
+    "Sp. Defense": 30,
+    "Speed": 50
+  },
+  {
+    "name": "Shelgon",
+    "HP": 65,
+    "Attack": 95,
+    "Defense": 100,
+    "Sp. Attack": 60,
+    "Sp. Defense": 50,
+    "Speed": 50
+  },
+  {
+    "name": "Salamence",
+    "HP": 95,
+    "Attack": 135,
+    "Defense": 80,
+    "Sp. Attack": 110,
+    "Sp. Defense": 80,
+    "Speed": 100
+  },
+  {
+    "name": "Beldum",
+    "HP": 40,
+    "Attack": 55,
+    "Defense": 80,
+    "Sp. Attack": 35,
+    "Sp. Defense": 60,
+    "Speed": 30
+  },
+  {
+    "name": "Metang",
+    "HP": 60,
+    "Attack": 75,
+    "Defense": 100,
+    "Sp. Attack": 55,
+    "Sp. Defense": 80,
+    "Speed": 50
+  },
+  {
+    "name": "Metagross",
+    "HP": 80,
+    "Attack": 135,
+    "Defense": 130,
+    "Sp. Attack": 95,
+    "Sp. Defense": 90,
+    "Speed": 70
+  },
+  {
+    "name": "Regirock",
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 200,
+    "Sp. Attack": 50,
+    "Sp. Defense": 100,
+    "Speed": 50
+  },
+  {
+    "name": "Regice",
+    "HP": 80,
+    "Attack": 50,
+    "Defense": 100,
+    "Sp. Attack": 100,
+    "Sp. Defense": 200,
+    "Speed": 50
+  },
+  {
+    "name": "Registeel",
+    "HP": 80,
+    "Attack": 75,
+    "Defense": 150,
+    "Sp. Attack": 75,
+    "Sp. Defense": 150,
+    "Speed": 50
+  },
+  {
+    "name": "Latias",
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 90,
+    "Sp. Attack": 110,
+    "Sp. Defense": 130,
+    "Speed": 110
+  },
+  {
+    "name": "Latios",
+    "HP": 80,
+    "Attack": 90,
+    "Defense": 80,
+    "Sp. Attack": 130,
+    "Sp. Defense": 110,
+    "Speed": 110
+  },
+  {
+    "name": "Kyogre",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 90,
+    "Sp. Attack": 150,
+    "Sp. Defense": 140,
+    "Speed": 90
+  },
+  {
+    "name": "Groudon",
+    "HP": 100,
+    "Attack": 150,
+    "Defense": 140,
+    "Sp. Attack": 100,
+    "Sp. Defense": 90,
+    "Speed": 90
+  },
+  {
+    "name": "Rayquaza",
+    "HP": 105,
+    "Attack": 150,
+    "Defense": 90,
+    "Sp. Attack": 150,
+    "Sp. Defense": 90,
+    "Speed": 95
+  },
+  {
+    "name": "Jirachi",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  {
+    "name": "Deoxys",
+    "HP": 50,
+    "Attack": 150,
+    "Defense": 50,
+    "Sp. Attack": 150,
+    "Sp. Defense": 50,
+    "Speed": 150
+  },
+  {
+    "name": "Turtwig",
+    "HP": 55,
+    "Attack": 68,
+    "Defense": 64,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 31
+  },
+  {
+    "name": "Grotle",
+    "HP": 75,
+    "Attack": 89,
+    "Defense": 85,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 36
+  },
+  {
+    "name": "Torterra",
+    "HP": 95,
+    "Attack": 109,
+    "Defense": 105,
+    "Sp. Attack": 75,
+    "Sp. Defense": 85,
+    "Speed": 56
+  },
+  {
+    "name": "Chimchar",
+    "HP": 44,
+    "Attack": 58,
+    "Defense": 44,
+    "Sp. Attack": 58,
+    "Sp. Defense": 44,
+    "Speed": 61
+  },
+  {
+    "name": "Monferno",
+    "HP": 64,
+    "Attack": 78,
+    "Defense": 52,
+    "Sp. Attack": 78,
+    "Sp. Defense": 52,
+    "Speed": 81
+  },
+  {
+    "name": "Infernape",
+    "HP": 76,
+    "Attack": 104,
+    "Defense": 71,
+    "Sp. Attack": 104,
+    "Sp. Defense": 71,
+    "Speed": 108
+  },
+  {
+    "name": "Piplup",
+    "HP": 53,
+    "Attack": 51,
+    "Defense": 53,
+    "Sp. Attack": 61,
+    "Sp. Defense": 56,
+    "Speed": 40
+  },
+  {
+    "name": "Prinplup",
+    "HP": 64,
+    "Attack": 66,
+    "Defense": 68,
+    "Sp. Attack": 81,
+    "Sp. Defense": 76,
+    "Speed": 50
+  },
+  {
+    "name": "Empoleon",
+    "HP": 84,
+    "Attack": 86,
+    "Defense": 88,
+    "Sp. Attack": 111,
+    "Sp. Defense": 101,
+    "Speed": 60
+  },
+  {
+    "name": "Starly",
+    "HP": 40,
+    "Attack": 55,
+    "Defense": 30,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 60
+  },
+  {
+    "name": "Staravia",
+    "HP": 55,
+    "Attack": 75,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 80
+  },
+  {
+    "name": "Staraptor",
+    "HP": 85,
+    "Attack": 120,
+    "Defense": 70,
+    "Sp. Attack": 50,
+    "Sp. Defense": 60,
+    "Speed": 100
+  },
+  {
+    "name": "Bidoof",
+    "HP": 59,
+    "Attack": 45,
+    "Defense": 40,
+    "Sp. Attack": 35,
+    "Sp. Defense": 40,
+    "Speed": 31
+  },
+  {
+    "name": "Bibarel",
+    "HP": 79,
+    "Attack": 85,
+    "Defense": 60,
+    "Sp. Attack": 55,
+    "Sp. Defense": 60,
+    "Speed": 71
+  },
+  {
+    "name": "Kricketot",
+    "HP": 37,
+    "Attack": 25,
+    "Defense": 41,
+    "Sp. Attack": 25,
+    "Sp. Defense": 41,
+    "Speed": 25
+  },
+  {
+    "name": "Kricketune",
+    "HP": 77,
+    "Attack": 85,
+    "Defense": 51,
+    "Sp. Attack": 55,
+    "Sp. Defense": 51,
+    "Speed": 65
+  },
+  {
+    "name": "Shinx",
+    "HP": 45,
+    "Attack": 65,
+    "Defense": 34,
+    "Sp. Attack": 40,
+    "Sp. Defense": 34,
+    "Speed": 45
+  },
+  {
+    "name": "Luxio",
+    "HP": 60,
+    "Attack": 85,
+    "Defense": 49,
+    "Sp. Attack": 60,
+    "Sp. Defense": 49,
+    "Speed": 60
+  },
+  {
+    "name": "Luxray",
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 79,
+    "Sp. Attack": 95,
+    "Sp. Defense": 79,
+    "Speed": 70
+  },
+  {
+    "name": "Budew",
+    "HP": 40,
+    "Attack": 30,
+    "Defense": 35,
+    "Sp. Attack": 50,
+    "Sp. Defense": 70,
+    "Speed": 55
+  },
+  {
+    "name": "Roserade",
+    "HP": 60,
+    "Attack": 70,
+    "Defense": 65,
+    "Sp. Attack": 125,
+    "Sp. Defense": 105,
+    "Speed": 90
+  },
+  {
+    "name": "Cranidos",
+    "HP": 67,
+    "Attack": 125,
+    "Defense": 40,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 58
+  },
+  {
+    "name": "Rampardos",
+    "HP": 97,
+    "Attack": 165,
+    "Defense": 60,
+    "Sp. Attack": 65,
+    "Sp. Defense": 50,
+    "Speed": 58
+  },
+  {
+    "name": "Shieldon",
+    "HP": 30,
+    "Attack": 42,
+    "Defense": 118,
+    "Sp. Attack": 42,
+    "Sp. Defense": 88,
+    "Speed": 30
+  },
+  {
+    "name": "Bastiodon",
+    "HP": 60,
+    "Attack": 52,
+    "Defense": 168,
+    "Sp. Attack": 47,
+    "Sp. Defense": 138,
+    "Speed": 30
+  },
+  {
+    "name": "Burmy",
+    "HP": 40,
+    "Attack": 29,
+    "Defense": 45,
+    "Sp. Attack": 29,
+    "Sp. Defense": 45,
+    "Speed": 36
+  },
+  {
+    "name": "Wormadam",
+    "HP": 60,
+    "Attack": 59,
+    "Defense": 85,
+    "Sp. Attack": 79,
+    "Sp. Defense": 105,
+    "Speed": 36
+  },
+  {
+    "name": "Mothim",
+    "HP": 70,
+    "Attack": 94,
+    "Defense": 50,
+    "Sp. Attack": 94,
+    "Sp. Defense": 50,
+    "Speed": 66
+  },
+  {
+    "name": "Combee",
+    "HP": 30,
+    "Attack": 30,
+    "Defense": 42,
+    "Sp. Attack": 30,
+    "Sp. Defense": 42,
+    "Speed": 70
+  },
+  {
+    "name": "Vespiquen",
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 102,
+    "Sp. Attack": 80,
+    "Sp. Defense": 102,
+    "Speed": 40
+  },
+  {
+    "name": "Pachirisu",
+    "HP": 60,
+    "Attack": 45,
+    "Defense": 70,
+    "Sp. Attack": 45,
+    "Sp. Defense": 90,
+    "Speed": 95
+  },
+  {
+    "name": "Buizel",
+    "HP": 55,
+    "Attack": 65,
+    "Defense": 35,
+    "Sp. Attack": 60,
+    "Sp. Defense": 30,
+    "Speed": 85
+  },
+  {
+    "name": "Floatzel",
+    "HP": 85,
+    "Attack": 105,
+    "Defense": 55,
+    "Sp. Attack": 85,
+    "Sp. Defense": 50,
+    "Speed": 115
+  },
+  {
+    "name": "Cherubi",
+    "HP": 45,
+    "Attack": 35,
+    "Defense": 45,
+    "Sp. Attack": 62,
+    "Sp. Defense": 53,
+    "Speed": 35
+  },
+  {
+    "name": "Cherrim",
+    "HP": 70,
+    "Attack": 60,
+    "Defense": 70,
+    "Sp. Attack": 87,
+    "Sp. Defense": 78,
+    "Speed": 85
+  },
+  {
+    "name": "Shellos",
+    "HP": 76,
+    "Attack": 48,
+    "Defense": 48,
+    "Sp. Attack": 57,
+    "Sp. Defense": 62,
+    "Speed": 34
+  },
+  {
+    "name": "Gastrodon",
+    "HP": 111,
+    "Attack": 83,
+    "Defense": 68,
+    "Sp. Attack": 92,
+    "Sp. Defense": 82,
+    "Speed": 39
+  },
+  {
+    "name": "Ambipom",
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 66,
+    "Sp. Attack": 60,
+    "Sp. Defense": 66,
+    "Speed": 115
+  },
+  {
+    "name": "Drifloon",
+    "HP": 90,
+    "Attack": 50,
+    "Defense": 34,
+    "Sp. Attack": 60,
+    "Sp. Defense": 44,
+    "Speed": 70
+  },
+  {
+    "name": "Drifblim",
+    "HP": 150,
+    "Attack": 80,
+    "Defense": 44,
+    "Sp. Attack": 90,
+    "Sp. Defense": 54,
+    "Speed": 80
+  },
+  {
+    "name": "Buneary",
+    "HP": 55,
+    "Attack": 66,
+    "Defense": 44,
+    "Sp. Attack": 44,
+    "Sp. Defense": 56,
+    "Speed": 85
+  },
+  {
+    "name": "Lopunny",
+    "HP": 65,
+    "Attack": 76,
+    "Defense": 84,
+    "Sp. Attack": 54,
+    "Sp. Defense": 96,
+    "Speed": 105
+  },
+  {
+    "name": "Mismagius",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 60,
+    "Sp. Attack": 105,
+    "Sp. Defense": 105,
+    "Speed": 105
+  },
+  {
+    "name": "Honchkrow",
+    "HP": 100,
+    "Attack": 125,
+    "Defense": 52,
+    "Sp. Attack": 105,
+    "Sp. Defense": 52,
+    "Speed": 71
+  },
+  {
+    "name": "Glameow",
+    "HP": 49,
+    "Attack": 55,
+    "Defense": 42,
+    "Sp. Attack": 42,
+    "Sp. Defense": 37,
+    "Speed": 85
+  },
+  {
+    "name": "Purugly",
+    "HP": 71,
+    "Attack": 82,
+    "Defense": 64,
+    "Sp. Attack": 64,
+    "Sp. Defense": 59,
+    "Speed": 112
+  },
+  {
+    "name": "Chingling",
+    "HP": 45,
+    "Attack": 30,
+    "Defense": 50,
+    "Sp. Attack": 65,
+    "Sp. Defense": 50,
+    "Speed": 45
+  },
+  {
+    "name": "Stunky",
+    "HP": 63,
+    "Attack": 63,
+    "Defense": 47,
+    "Sp. Attack": 41,
+    "Sp. Defense": 41,
+    "Speed": 74
+  },
+  {
+    "name": "Skuntank",
+    "HP": 103,
+    "Attack": 93,
+    "Defense": 67,
+    "Sp. Attack": 71,
+    "Sp. Defense": 61,
+    "Speed": 84
+  },
+  {
+    "name": "Bronzor",
+    "HP": 57,
+    "Attack": 24,
+    "Defense": 86,
+    "Sp. Attack": 24,
+    "Sp. Defense": 86,
+    "Speed": 23
+  },
+  {
+    "name": "Bronzong",
+    "HP": 67,
+    "Attack": 89,
+    "Defense": 116,
+    "Sp. Attack": 79,
+    "Sp. Defense": 116,
+    "Speed": 33
+  },
+  {
+    "name": "Bonsly",
+    "HP": 50,
+    "Attack": 80,
+    "Defense": 95,
+    "Sp. Attack": 10,
+    "Sp. Defense": 45,
+    "Speed": 10
+  },
+  {
+    "name": "Mime Jr.",
+    "HP": 20,
+    "Attack": 25,
+    "Defense": 45,
+    "Sp. Attack": 70,
+    "Sp. Defense": 90,
+    "Speed": 60
+  },
+  {
+    "name": "Happiny",
+    "HP": 100,
+    "Attack": 5,
+    "Defense": 5,
+    "Sp. Attack": 15,
+    "Sp. Defense": 65,
+    "Speed": 30
+  },
+  {
+    "name": "Chatot",
+    "HP": 76,
+    "Attack": 65,
+    "Defense": 45,
+    "Sp. Attack": 92,
+    "Sp. Defense": 42,
+    "Speed": 91
+  },
+  {
+    "name": "Spiritomb",
+    "HP": 50,
+    "Attack": 92,
+    "Defense": 108,
+    "Sp. Attack": 92,
+    "Sp. Defense": 108,
+    "Speed": 35
+  },
+  {
+    "name": "Gible",
+    "HP": 58,
+    "Attack": 70,
+    "Defense": 45,
+    "Sp. Attack": 40,
+    "Sp. Defense": 45,
+    "Speed": 42
+  },
+  {
+    "name": "Gabite",
+    "HP": 68,
+    "Attack": 90,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 55,
+    "Speed": 82
+  },
+  {
+    "name": "Garchomp",
+    "HP": 108,
+    "Attack": 130,
+    "Defense": 95,
+    "Sp. Attack": 80,
+    "Sp. Defense": 85,
+    "Speed": 102
+  },
+  {
+    "name": "Munchlax",
+    "HP": 135,
+    "Attack": 85,
+    "Defense": 40,
+    "Sp. Attack": 40,
+    "Sp. Defense": 85,
+    "Speed": 5
+  },
+  {
+    "name": "Riolu",
+    "HP": 40,
+    "Attack": 70,
+    "Defense": 40,
+    "Sp. Attack": 35,
+    "Sp. Defense": 40,
+    "Speed": 60
+  },
+  {
+    "name": "Lucario",
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 70,
+    "Sp. Attack": 115,
+    "Sp. Defense": 70,
+    "Speed": 90
+  },
+  {
+    "name": "Hippopotas",
+    "HP": 68,
+    "Attack": 72,
+    "Defense": 78,
+    "Sp. Attack": 38,
+    "Sp. Defense": 42,
+    "Speed": 32
+  },
+  {
+    "name": "Hippowdon",
+    "HP": 108,
+    "Attack": 112,
+    "Defense": 118,
+    "Sp. Attack": 68,
+    "Sp. Defense": 72,
+    "Speed": 47
+  },
+  {
+    "name": "Skorupi",
+    "HP": 40,
+    "Attack": 50,
+    "Defense": 90,
+    "Sp. Attack": 30,
+    "Sp. Defense": 55,
+    "Speed": 65
+  },
+  {
+    "name": "Drapion",
+    "HP": 70,
+    "Attack": 90,
+    "Defense": 110,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 95
+  },
+  {
+    "name": "Croagunk",
+    "HP": 48,
+    "Attack": 61,
+    "Defense": 40,
+    "Sp. Attack": 61,
+    "Sp. Defense": 40,
+    "Speed": 50
+  },
+  {
+    "name": "Toxicroak",
+    "HP": 83,
+    "Attack": 106,
+    "Defense": 65,
+    "Sp. Attack": 86,
+    "Sp. Defense": 65,
+    "Speed": 85
+  },
+  {
+    "name": "Carnivine",
+    "HP": 74,
+    "Attack": 100,
+    "Defense": 72,
+    "Sp. Attack": 90,
+    "Sp. Defense": 72,
+    "Speed": 46
+  },
+  {
+    "name": "Finneon",
+    "HP": 49,
+    "Attack": 49,
+    "Defense": 56,
+    "Sp. Attack": 49,
+    "Sp. Defense": 61,
+    "Speed": 66
+  },
+  {
+    "name": "Lumineon",
+    "HP": 69,
+    "Attack": 69,
+    "Defense": 76,
+    "Sp. Attack": 69,
+    "Sp. Defense": 86,
+    "Speed": 91
+  },
+  {
+    "name": "Mantyke",
+    "HP": 45,
+    "Attack": 20,
+    "Defense": 50,
+    "Sp. Attack": 60,
+    "Sp. Defense": 120,
+    "Speed": 50
+  },
+  {
+    "name": "Snover",
+    "HP": 60,
+    "Attack": 62,
+    "Defense": 50,
+    "Sp. Attack": 62,
+    "Sp. Defense": 60,
+    "Speed": 40
+  },
+  {
+    "name": "Abomasnow",
+    "HP": 90,
+    "Attack": 92,
+    "Defense": 75,
+    "Sp. Attack": 92,
+    "Sp. Defense": 85,
+    "Speed": 60
+  },
+  {
+    "name": "Weavile",
+    "HP": 70,
+    "Attack": 120,
+    "Defense": 65,
+    "Sp. Attack": 45,
+    "Sp. Defense": 85,
+    "Speed": 125
+  },
+  {
+    "name": "Magnezone",
+    "HP": 70,
+    "Attack": 70,
+    "Defense": 115,
+    "Sp. Attack": 130,
+    "Sp. Defense": 90,
+    "Speed": 60
+  },
+  {
+    "name": "Lickilicky",
+    "HP": 110,
+    "Attack": 85,
+    "Defense": 95,
+    "Sp. Attack": 80,
+    "Sp. Defense": 95,
+    "Speed": 50
+  },
+  {
+    "name": "Rhyperior",
+    "HP": 115,
+    "Attack": 140,
+    "Defense": 130,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 40
+  },
+  {
+    "name": "Tangrowth",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 125,
+    "Sp. Attack": 110,
+    "Sp. Defense": 50,
+    "Speed": 50
+  },
+  {
+    "name": "Electivire",
+    "HP": 75,
+    "Attack": 123,
+    "Defense": 67,
+    "Sp. Attack": 95,
+    "Sp. Defense": 85,
+    "Speed": 95
+  },
+  {
+    "name": "Magmortar",
+    "HP": 75,
+    "Attack": 95,
+    "Defense": 67,
+    "Sp. Attack": 125,
+    "Sp. Defense": 95,
+    "Speed": 83
+  },
+  {
+    "name": "Togekiss",
+    "HP": 85,
+    "Attack": 50,
+    "Defense": 95,
+    "Sp. Attack": 120,
+    "Sp. Defense": 115,
+    "Speed": 80
+  },
+  {
+    "name": "Yanmega",
+    "HP": 86,
+    "Attack": 76,
+    "Defense": 86,
+    "Sp. Attack": 116,
+    "Sp. Defense": 56,
+    "Speed": 95
+  },
+  {
+    "name": "Leafeon",
+    "HP": 65,
+    "Attack": 110,
+    "Defense": 130,
+    "Sp. Attack": 60,
+    "Sp. Defense": 65,
+    "Speed": 95
+  },
+  {
+    "name": "Glaceon",
+    "HP": 65,
+    "Attack": 60,
+    "Defense": 110,
+    "Sp. Attack": 130,
+    "Sp. Defense": 95,
+    "Speed": 65
+  },
+  {
+    "name": "Gliscor",
+    "HP": 75,
+    "Attack": 95,
+    "Defense": 125,
+    "Sp. Attack": 45,
+    "Sp. Defense": 75,
+    "Speed": 95
+  },
+  {
+    "name": "Mamoswine",
+    "HP": 110,
+    "Attack": 130,
+    "Defense": 80,
+    "Sp. Attack": 70,
+    "Sp. Defense": 60,
+    "Speed": 80
+  },
+  {
+    "name": "Porygon-Z",
+    "HP": 85,
+    "Attack": 80,
+    "Defense": 70,
+    "Sp. Attack": 135,
+    "Sp. Defense": 75,
+    "Speed": 90
+  },
+  {
+    "name": "Gallade",
+    "HP": 68,
+    "Attack": 125,
+    "Defense": 65,
+    "Sp. Attack": 65,
+    "Sp. Defense": 115,
+    "Speed": 80
+  },
+  {
+    "name": "Probopass",
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 145,
+    "Sp. Attack": 75,
+    "Sp. Defense": 150,
+    "Speed": 40
+  },
+  {
+    "name": "Dusknoir",
+    "HP": 45,
+    "Attack": 100,
+    "Defense": 135,
+    "Sp. Attack": 65,
+    "Sp. Defense": 135,
+    "Speed": 45
+  },
+  {
+    "name": "Froslass",
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 70,
+    "Speed": 110
+  },
+  {
+    "name": "Rotom",
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 77,
+    "Sp. Attack": 95,
+    "Sp. Defense": 77,
+    "Speed": 91
+  },
+  {
+    "name": "Uxie",
+    "HP": 75,
+    "Attack": 75,
+    "Defense": 130,
+    "Sp. Attack": 75,
+    "Sp. Defense": 130,
+    "Speed": 95
+  },
+  {
+    "name": "Mesprit",
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 105,
+    "Sp. Attack": 105,
+    "Sp. Defense": 105,
+    "Speed": 80
+  },
+  {
+    "name": "Azelf",
+    "HP": 75,
+    "Attack": 125,
+    "Defense": 70,
+    "Sp. Attack": 125,
+    "Sp. Defense": 70,
+    "Speed": 115
+  },
+  {
+    "name": "Dialga",
+    "HP": 100,
+    "Attack": 120,
+    "Defense": 120,
+    "Sp. Attack": 150,
+    "Sp. Defense": 100,
+    "Speed": 90
+  },
+  {
+    "name": "Palkia",
+    "HP": 90,
+    "Attack": 120,
+    "Defense": 100,
+    "Sp. Attack": 150,
+    "Sp. Defense": 120,
+    "Speed": 100
+  },
+  {
+    "name": "Heatran",
+    "HP": 91,
+    "Attack": 90,
+    "Defense": 106,
+    "Sp. Attack": 130,
+    "Sp. Defense": 106,
+    "Speed": 77
+  },
+  {
+    "name": "Regigigas",
+    "HP": 110,
+    "Attack": 160,
+    "Defense": 110,
+    "Sp. Attack": 80,
+    "Sp. Defense": 110,
+    "Speed": 100
+  },
+  {
+    "name": "Giratina",
+    "HP": 150,
+    "Attack": 100,
+    "Defense": 120,
+    "Sp. Attack": 100,
+    "Sp. Defense": 120,
+    "Speed": 90
+  },
+  {
+    "name": "Cresselia",
+    "HP": 120,
+    "Attack": 70,
+    "Defense": 120,
+    "Sp. Attack": 75,
+    "Sp. Defense": 130,
+    "Speed": 85
+  },
+  {
+    "name": "Phione",
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 80,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 80
+  },
+  {
+    "name": "Manaphy",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  {
+    "name": "Darkrai",
+    "HP": 70,
+    "Attack": 90,
+    "Defense": 90,
+    "Sp. Attack": 135,
+    "Sp. Defense": 90,
+    "Speed": 125
+  },
+  {
+    "name": "Shaymin",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  {
+    "name": "Arceus",
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Sp. Attack": 120,
+    "Sp. Defense": 120,
+    "Speed": 120
+  },
+  {
+    "name": "Victini",
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  {
+    "name": "Snivy",
+    "HP": 45,
+    "Attack": 45,
+    "Defense": 55,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 63
+  },
+  {
+    "name": "Servine",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 75,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 83
+  },
+  {
+    "name": "Serperior",
+    "HP": 75,
+    "Attack": 75,
+    "Defense": 95,
+    "Sp. Attack": 75,
+    "Sp. Defense": 95,
+    "Speed": 113
+  },
+  {
+    "name": "Tepig",
+    "HP": 65,
+    "Attack": 63,
+    "Defense": 45,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 45
+  },
+  {
+    "name": "Pignite",
+    "HP": 90,
+    "Attack": 93,
+    "Defense": 55,
+    "Sp. Attack": 70,
+    "Sp. Defense": 55,
+    "Speed": 55
+  },
+  {
+    "name": "Emboar",
+    "HP": 110,
+    "Attack": 123,
+    "Defense": 65,
+    "Sp. Attack": 100,
+    "Sp. Defense": 65,
+    "Speed": 65
+  },
+  {
+    "name": "Oshawott",
+    "HP": 55,
+    "Attack": 55,
+    "Defense": 45,
+    "Sp. Attack": 63,
+    "Sp. Defense": 45,
+    "Speed": 45
+  },
+  {
+    "name": "Dewott",
+    "HP": 75,
+    "Attack": 75,
+    "Defense": 60,
+    "Sp. Attack": 83,
+    "Sp. Defense": 60,
+    "Speed": 60
+  },
+  {
+    "name": "Samurott",
+    "HP": 95,
+    "Attack": 100,
+    "Defense": 85,
+    "Sp. Attack": 108,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  {
+    "name": "Patrat",
+    "HP": 45,
+    "Attack": 55,
+    "Defense": 39,
+    "Sp. Attack": 35,
+    "Sp. Defense": 39,
+    "Speed": 42
+  },
+  {
+    "name": "Watchog",
+    "HP": 60,
+    "Attack": 85,
+    "Defense": 69,
+    "Sp. Attack": 60,
+    "Sp. Defense": 69,
+    "Speed": 77
+  },
+  {
+    "name": "Lillipup",
+    "HP": 45,
+    "Attack": 60,
+    "Defense": 45,
+    "Sp. Attack": 25,
+    "Sp. Defense": 45,
+    "Speed": 55
+  },
+  {
+    "name": "Herdier",
+    "HP": 65,
+    "Attack": 80,
+    "Defense": 65,
+    "Sp. Attack": 35,
+    "Sp. Defense": 65,
+    "Speed": 60
+  },
+  {
+    "name": "Stoutland",
+    "HP": 85,
+    "Attack": 110,
+    "Defense": 90,
+    "Sp. Attack": 45,
+    "Sp. Defense": 90,
+    "Speed": 80
+  },
+  {
+    "name": "Purrloin",
+    "HP": 41,
+    "Attack": 50,
+    "Defense": 37,
+    "Sp. Attack": 50,
+    "Sp. Defense": 37,
+    "Speed": 66
+  },
+  {
+    "name": "Liepard",
+    "HP": 64,
+    "Attack": 88,
+    "Defense": 50,
+    "Sp. Attack": 88,
+    "Sp. Defense": 50,
+    "Speed": 106
+  },
+  {
+    "name": "Pansage",
+    "HP": 50,
+    "Attack": 53,
+    "Defense": 48,
+    "Sp. Attack": 53,
+    "Sp. Defense": 48,
+    "Speed": 64
+  },
+  {
+    "name": "Simisage",
+    "HP": 75,
+    "Attack": 98,
+    "Defense": 63,
+    "Sp. Attack": 98,
+    "Sp. Defense": 63,
+    "Speed": 101
+  },
+  {
+    "name": "Pansear",
+    "HP": 50,
+    "Attack": 53,
+    "Defense": 48,
+    "Sp. Attack": 53,
+    "Sp. Defense": 48,
+    "Speed": 64
+  },
+  {
+    "name": "Simisear",
+    "HP": 75,
+    "Attack": 98,
+    "Defense": 63,
+    "Sp. Attack": 98,
+    "Sp. Defense": 63,
+    "Speed": 101
+  },
+  {
+    "name": "Panpour",
+    "HP": 50,
+    "Attack": 53,
+    "Defense": 48,
+    "Sp. Attack": 53,
+    "Sp. Defense": 48,
+    "Speed": 64
+  },
+  {
+    "name": "Simipour",
+    "HP": 75,
+    "Attack": 98,
+    "Defense": 63,
+    "Sp. Attack": 98,
+    "Sp. Defense": 63,
+    "Speed": 101
+  },
+  {
+    "name": "Munna",
+    "HP": 76,
+    "Attack": 25,
+    "Defense": 45,
+    "Sp. Attack": 67,
+    "Sp. Defense": 55,
+    "Speed": 24
+  },
+  {
+    "name": "Musharna",
+    "HP": 116,
+    "Attack": 55,
+    "Defense": 85,
+    "Sp. Attack": 107,
+    "Sp. Defense": 95,
+    "Speed": 29
+  },
+  {
+    "name": "Pidove",
+    "HP": 50,
+    "Attack": 55,
+    "Defense": 50,
+    "Sp. Attack": 36,
+    "Sp. Defense": 30,
+    "Speed": 43
+  },
+  {
+    "name": "Tranquill",
+    "HP": 62,
+    "Attack": 77,
+    "Defense": 62,
+    "Sp. Attack": 50,
+    "Sp. Defense": 42,
+    "Speed": 65
+  },
+  {
+    "name": "Unfezant",
+    "HP": 80,
+    "Attack": 115,
+    "Defense": 80,
+    "Sp. Attack": 65,
+    "Sp. Defense": 55,
+    "Speed": 93
+  },
+  {
+    "name": "Blitzle",
+    "HP": 45,
+    "Attack": 60,
+    "Defense": 32,
+    "Sp. Attack": 50,
+    "Sp. Defense": 32,
+    "Speed": 76
+  },
+  {
+    "name": "Zebstrika",
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 63,
+    "Sp. Attack": 80,
+    "Sp. Defense": 63,
+    "Speed": 116
+  },
+  {
+    "name": "Roggenrola",
+    "HP": 55,
+    "Attack": 75,
+    "Defense": 85,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 15
+  },
+  {
+    "name": "Boldore",
+    "HP": 70,
+    "Attack": 105,
+    "Defense": 105,
+    "Sp. Attack": 50,
+    "Sp. Defense": 40,
+    "Speed": 20
+  },
+  {
+    "name": "Gigalith",
+    "HP": 85,
+    "Attack": 135,
+    "Defense": 130,
+    "Sp. Attack": 60,
+    "Sp. Defense": 80,
+    "Speed": 25
+  },
+  {
+    "name": "Woobat",
+    "HP": 65,
+    "Attack": 45,
+    "Defense": 43,
+    "Sp. Attack": 55,
+    "Sp. Defense": 43,
+    "Speed": 72
+  },
+  {
+    "name": "Swoobat",
+    "HP": 67,
+    "Attack": 57,
+    "Defense": 55,
+    "Sp. Attack": 77,
+    "Sp. Defense": 55,
+    "Speed": 114
+  },
+  {
+    "name": "Drilbur",
+    "HP": 60,
+    "Attack": 85,
+    "Defense": 40,
+    "Sp. Attack": 30,
+    "Sp. Defense": 45,
+    "Speed": 68
+  },
+  {
+    "name": "Excadrill",
+    "HP": 110,
+    "Attack": 135,
+    "Defense": 60,
+    "Sp. Attack": 50,
+    "Sp. Defense": 65,
+    "Speed": 88
+  },
+  {
+    "name": "Audino",
+    "HP": 103,
+    "Attack": 60,
+    "Defense": 86,
+    "Sp. Attack": 60,
+    "Sp. Defense": 86,
+    "Speed": 50
+  },
+  {
+    "name": "Timburr",
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 55,
+    "Sp. Attack": 25,
+    "Sp. Defense": 35,
+    "Speed": 35
+  },
+  {
+    "name": "Gurdurr",
+    "HP": 85,
+    "Attack": 105,
+    "Defense": 85,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 40
+  },
+  {
+    "name": "Conkeldurr",
+    "HP": 105,
+    "Attack": 140,
+    "Defense": 95,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 45
+  },
+  {
+    "name": "Tympole",
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 40,
+    "Sp. Attack": 50,
+    "Sp. Defense": 40,
+    "Speed": 64
+  },
+  {
+    "name": "Palpitoad",
+    "HP": 75,
+    "Attack": 65,
+    "Defense": 55,
+    "Sp. Attack": 65,
+    "Sp. Defense": 55,
+    "Speed": 69
+  },
+  {
+    "name": "Seismitoad",
+    "HP": 105,
+    "Attack": 95,
+    "Defense": 75,
+    "Sp. Attack": 85,
+    "Sp. Defense": 75,
+    "Speed": 74
+  },
+  {
+    "name": "Throh",
+    "HP": 120,
+    "Attack": 100,
+    "Defense": 85,
+    "Sp. Attack": 30,
+    "Sp. Defense": 85,
+    "Speed": 45
+  },
+  {
+    "name": "Sawk",
+    "HP": 75,
+    "Attack": 125,
+    "Defense": 75,
+    "Sp. Attack": 30,
+    "Sp. Defense": 75,
+    "Speed": 85
+  },
+  {
+    "name": "Sewaddle",
+    "HP": 45,
+    "Attack": 53,
+    "Defense": 70,
+    "Sp. Attack": 40,
+    "Sp. Defense": 60,
+    "Speed": 42
+  },
+  {
+    "name": "Swadloon",
+    "HP": 55,
+    "Attack": 63,
+    "Defense": 90,
+    "Sp. Attack": 50,
+    "Sp. Defense": 80,
+    "Speed": 42
+  },
+  {
+    "name": "Leavanny",
+    "HP": 75,
+    "Attack": 103,
+    "Defense": 80,
+    "Sp. Attack": 70,
+    "Sp. Defense": 80,
+    "Speed": 92
+  },
+  {
+    "name": "Venipede",
+    "HP": 30,
+    "Attack": 45,
+    "Defense": 59,
+    "Sp. Attack": 30,
+    "Sp. Defense": 39,
+    "Speed": 57
+  },
+  {
+    "name": "Whirlipede",
+    "HP": 40,
+    "Attack": 55,
+    "Defense": 99,
+    "Sp. Attack": 40,
+    "Sp. Defense": 79,
+    "Speed": 47
+  },
+  {
+    "name": "Scolipede",
+    "HP": 60,
+    "Attack": 100,
+    "Defense": 89,
+    "Sp. Attack": 55,
+    "Sp. Defense": 69,
+    "Speed": 112
+  },
+  {
+    "name": "Cottonee",
+    "HP": 40,
+    "Attack": 27,
+    "Defense": 60,
+    "Sp. Attack": 37,
+    "Sp. Defense": 50,
+    "Speed": 66
+  },
+  {
+    "name": "Whimsicott",
+    "HP": 60,
+    "Attack": 67,
+    "Defense": 85,
+    "Sp. Attack": 77,
+    "Sp. Defense": 75,
+    "Speed": 116
+  },
+  {
+    "name": "Petilil",
+    "HP": 45,
+    "Attack": 35,
+    "Defense": 50,
+    "Sp. Attack": 70,
+    "Sp. Defense": 50,
+    "Speed": 30
+  },
+  {
+    "name": "Lilligant",
+    "HP": 70,
+    "Attack": 60,
+    "Defense": 75,
+    "Sp. Attack": 110,
+    "Sp. Defense": 75,
+    "Speed": 90
+  },
+  {
+    "name": "Basculin",
+    "HP": 70,
+    "Attack": 92,
+    "Defense": 65,
+    "Sp. Attack": 80,
+    "Sp. Defense": 55,
+    "Speed": 98
+  },
+  {
+    "name": "Sandile",
+    "HP": 50,
+    "Attack": 72,
+    "Defense": 35,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 65
+  },
+  {
+    "name": "Krokorok",
+    "HP": 60,
+    "Attack": 82,
+    "Defense": 45,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 74
+  },
+  {
+    "name": "Krookodile",
+    "HP": 95,
+    "Attack": 117,
+    "Defense": 80,
+    "Sp. Attack": 65,
+    "Sp. Defense": 70,
+    "Speed": 92
+  },
+  {
+    "name": "Darumaka",
+    "HP": 70,
+    "Attack": 90,
+    "Defense": 45,
+    "Sp. Attack": 15,
+    "Sp. Defense": 45,
+    "Speed": 50
+  },
+  {
+    "name": "Darmanitan",
+    "HP": 105,
+    "Attack": 140,
+    "Defense": 55,
+    "Sp. Attack": 30,
+    "Sp. Defense": 55,
+    "Speed": 95
+  },
+  {
+    "name": "Maractus",
+    "HP": 75,
+    "Attack": 86,
+    "Defense": 67,
+    "Sp. Attack": 106,
+    "Sp. Defense": 67,
+    "Speed": 60
+  },
+  {
+    "name": "Dwebble",
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 85,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 55
+  },
+  {
+    "name": "Crustle",
+    "HP": 70,
+    "Attack": 105,
+    "Defense": 125,
+    "Sp. Attack": 65,
+    "Sp. Defense": 75,
+    "Speed": 45
+  },
+  {
+    "name": "Scraggy",
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 70,
+    "Sp. Attack": 35,
+    "Sp. Defense": 70,
+    "Speed": 48
+  },
+  {
+    "name": "Scrafty",
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 115,
+    "Sp. Attack": 45,
+    "Sp. Defense": 115,
+    "Speed": 58
+  },
+  {
+    "name": "Sigilyph",
+    "HP": 72,
+    "Attack": 58,
+    "Defense": 80,
+    "Sp. Attack": 103,
+    "Sp. Defense": 80,
+    "Speed": 97
+  },
+  {
+    "name": "Yamask",
+    "HP": 38,
+    "Attack": 30,
+    "Defense": 85,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 30
+  },
+  {
+    "name": "Cofagrigus",
+    "HP": 58,
+    "Attack": 50,
+    "Defense": 145,
+    "Sp. Attack": 95,
+    "Sp. Defense": 105,
+    "Speed": 30
+  },
+  {
+    "name": "Tirtouga",
+    "HP": 54,
+    "Attack": 78,
+    "Defense": 103,
+    "Sp. Attack": 53,
+    "Sp. Defense": 45,
+    "Speed": 22
+  },
+  {
+    "name": "Carracosta",
+    "HP": 74,
+    "Attack": 108,
+    "Defense": 133,
+    "Sp. Attack": 83,
+    "Sp. Defense": 65,
+    "Speed": 32
+  },
+  {
+    "name": "Archen",
+    "HP": 55,
+    "Attack": 112,
+    "Defense": 45,
+    "Sp. Attack": 74,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  {
+    "name": "Archeops",
+    "HP": 75,
+    "Attack": 140,
+    "Defense": 65,
+    "Sp. Attack": 112,
+    "Sp. Defense": 65,
+    "Speed": 110
+  },
+  {
+    "name": "Trubbish",
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 62,
+    "Sp. Attack": 40,
+    "Sp. Defense": 62,
+    "Speed": 65
+  },
+  {
+    "name": "Garbodor",
+    "HP": 80,
+    "Attack": 95,
+    "Defense": 82,
+    "Sp. Attack": 60,
+    "Sp. Defense": 82,
+    "Speed": 75
+  },
+  {
+    "name": "Zorua",
+    "HP": 40,
+    "Attack": 65,
+    "Defense": 40,
+    "Sp. Attack": 80,
+    "Sp. Defense": 40,
+    "Speed": 65
+  },
+  {
+    "name": "Zoroark",
+    "HP": 60,
+    "Attack": 105,
+    "Defense": 60,
+    "Sp. Attack": 120,
+    "Sp. Defense": 60,
+    "Speed": 105
+  },
+  {
+    "name": "Minccino",
+    "HP": 55,
+    "Attack": 50,
+    "Defense": 40,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 75
+  },
+  {
+    "name": "Cinccino",
+    "HP": 75,
+    "Attack": 95,
+    "Defense": 60,
+    "Sp. Attack": 65,
+    "Sp. Defense": 60,
+    "Speed": 115
+  },
+  {
+    "name": "Gothita",
+    "HP": 45,
+    "Attack": 30,
+    "Defense": 50,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 45
+  },
+  {
+    "name": "Gothorita",
+    "HP": 60,
+    "Attack": 45,
+    "Defense": 70,
+    "Sp. Attack": 75,
+    "Sp. Defense": 85,
+    "Speed": 55
+  },
+  {
+    "name": "Gothitelle",
+    "HP": 70,
+    "Attack": 55,
+    "Defense": 95,
+    "Sp. Attack": 95,
+    "Sp. Defense": 110,
+    "Speed": 65
+  },
+  {
+    "name": "Solosis",
+    "HP": 45,
+    "Attack": 30,
+    "Defense": 40,
+    "Sp. Attack": 105,
+    "Sp. Defense": 50,
+    "Speed": 20
+  },
+  {
+    "name": "Duosion",
+    "HP": 65,
+    "Attack": 40,
+    "Defense": 50,
+    "Sp. Attack": 125,
+    "Sp. Defense": 60,
+    "Speed": 30
+  },
+  {
+    "name": "Reuniclus",
+    "HP": 110,
+    "Attack": 65,
+    "Defense": 75,
+    "Sp. Attack": 125,
+    "Sp. Defense": 85,
+    "Speed": 30
+  },
+  {
+    "name": "Ducklett",
+    "HP": 62,
+    "Attack": 44,
+    "Defense": 50,
+    "Sp. Attack": 44,
+    "Sp. Defense": 50,
+    "Speed": 55
+  },
+  {
+    "name": "Swanna",
+    "HP": 75,
+    "Attack": 87,
+    "Defense": 63,
+    "Sp. Attack": 87,
+    "Sp. Defense": 63,
+    "Speed": 98
+  },
+  {
+    "name": "Vanillite",
+    "HP": 36,
+    "Attack": 50,
+    "Defense": 50,
+    "Sp. Attack": 65,
+    "Sp. Defense": 60,
+    "Speed": 44
+  },
+  {
+    "name": "Vanillish",
+    "HP": 51,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 80,
+    "Sp. Defense": 75,
+    "Speed": 59
+  },
+  {
+    "name": "Vanilluxe",
+    "HP": 71,
+    "Attack": 95,
+    "Defense": 85,
+    "Sp. Attack": 110,
+    "Sp. Defense": 95,
+    "Speed": 79
+  },
+  {
+    "name": "Deerling",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 75
+  },
+  {
+    "name": "Sawsbuck",
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 60,
+    "Sp. Defense": 70,
+    "Speed": 95
+  },
+  {
+    "name": "Emolga",
+    "HP": 55,
+    "Attack": 75,
+    "Defense": 60,
+    "Sp. Attack": 75,
+    "Sp. Defense": 60,
+    "Speed": 103
+  },
+  {
+    "name": "Karrablast",
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 45,
+    "Sp. Attack": 40,
+    "Sp. Defense": 45,
+    "Speed": 60
+  },
+  {
+    "name": "Escavalier",
+    "HP": 70,
+    "Attack": 135,
+    "Defense": 105,
+    "Sp. Attack": 60,
+    "Sp. Defense": 105,
+    "Speed": 20
+  },
+  {
+    "name": "Foongus",
+    "HP": 69,
+    "Attack": 55,
+    "Defense": 45,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 15
+  },
+  {
+    "name": "Amoonguss",
+    "HP": 114,
+    "Attack": 85,
+    "Defense": 70,
+    "Sp. Attack": 85,
+    "Sp. Defense": 80,
+    "Speed": 30
+  },
+  {
+    "name": "Frillish",
+    "HP": 55,
+    "Attack": 40,
+    "Defense": 50,
+    "Sp. Attack": 65,
+    "Sp. Defense": 85,
+    "Speed": 40
+  },
+  {
+    "name": "Jellicent",
+    "HP": 100,
+    "Attack": 60,
+    "Defense": 70,
+    "Sp. Attack": 85,
+    "Sp. Defense": 105,
+    "Speed": 60
+  },
+  {
+    "name": "Alomomola",
+    "HP": 165,
+    "Attack": 75,
+    "Defense": 80,
+    "Sp. Attack": 40,
+    "Sp. Defense": 45,
+    "Speed": 65
+  },
+  {
+    "name": "Joltik",
+    "HP": 50,
+    "Attack": 47,
+    "Defense": 50,
+    "Sp. Attack": 57,
+    "Sp. Defense": 50,
+    "Speed": 65
+  },
+  {
+    "name": "Galvantula",
+    "HP": 70,
+    "Attack": 77,
+    "Defense": 60,
+    "Sp. Attack": 97,
+    "Sp. Defense": 60,
+    "Speed": 108
+  },
+  {
+    "name": "Ferroseed",
+    "HP": 44,
+    "Attack": 50,
+    "Defense": 91,
+    "Sp. Attack": 24,
+    "Sp. Defense": 86,
+    "Speed": 10
+  },
+  {
+    "name": "Ferrothorn",
+    "HP": 74,
+    "Attack": 94,
+    "Defense": 131,
+    "Sp. Attack": 54,
+    "Sp. Defense": 116,
+    "Speed": 20
+  },
+  {
+    "name": "Klink",
+    "HP": 40,
+    "Attack": 55,
+    "Defense": 70,
+    "Sp. Attack": 45,
+    "Sp. Defense": 60,
+    "Speed": 30
+  },
+  {
+    "name": "Klang",
+    "HP": 60,
+    "Attack": 80,
+    "Defense": 95,
+    "Sp. Attack": 70,
+    "Sp. Defense": 85,
+    "Speed": 50
+  },
+  {
+    "name": "Klinklang",
+    "HP": 60,
+    "Attack": 100,
+    "Defense": 115,
+    "Sp. Attack": 70,
+    "Sp. Defense": 85,
+    "Speed": 90
+  },
+  {
+    "name": "Tynamo",
+    "HP": 35,
+    "Attack": 55,
+    "Defense": 40,
+    "Sp. Attack": 45,
+    "Sp. Defense": 40,
+    "Speed": 60
+  },
+  {
+    "name": "Eelektrik",
+    "HP": 65,
+    "Attack": 85,
+    "Defense": 70,
+    "Sp. Attack": 75,
+    "Sp. Defense": 70,
+    "Speed": 40
+  },
+  {
+    "name": "Eelektross",
+    "HP": 85,
+    "Attack": 115,
+    "Defense": 80,
+    "Sp. Attack": 105,
+    "Sp. Defense": 80,
+    "Speed": 50
+  },
+  {
+    "name": "Elgyem",
+    "HP": 55,
+    "Attack": 55,
+    "Defense": 55,
+    "Sp. Attack": 85,
+    "Sp. Defense": 55,
+    "Speed": 30
+  },
+  {
+    "name": "Beheeyem",
+    "HP": 75,
+    "Attack": 75,
+    "Defense": 75,
+    "Sp. Attack": 125,
+    "Sp. Defense": 95,
+    "Speed": 40
+  },
+  {
+    "name": "Litwick",
+    "HP": 50,
+    "Attack": 30,
+    "Defense": 55,
+    "Sp. Attack": 65,
+    "Sp. Defense": 55,
+    "Speed": 20
+  },
+  {
+    "name": "Lampent",
+    "HP": 60,
+    "Attack": 40,
+    "Defense": 60,
+    "Sp. Attack": 95,
+    "Sp. Defense": 60,
+    "Speed": 55
+  },
+  {
+    "name": "Chandelure",
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 90,
+    "Sp. Attack": 145,
+    "Sp. Defense": 90,
+    "Speed": 80
+  },
+  {
+    "name": "Axew",
+    "HP": 46,
+    "Attack": 87,
+    "Defense": 60,
+    "Sp. Attack": 30,
+    "Sp. Defense": 40,
+    "Speed": 57
+  },
+  {
+    "name": "Fraxure",
+    "HP": 66,
+    "Attack": 117,
+    "Defense": 70,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 67
+  },
+  {
+    "name": "Haxorus",
+    "HP": 76,
+    "Attack": 147,
+    "Defense": 90,
+    "Sp. Attack": 60,
+    "Sp. Defense": 70,
+    "Speed": 97
+  },
+  {
+    "name": "Cubchoo",
+    "HP": 55,
+    "Attack": 70,
+    "Defense": 40,
+    "Sp. Attack": 60,
+    "Sp. Defense": 40,
+    "Speed": 40
+  },
+  {
+    "name": "Beartic",
+    "HP": 95,
+    "Attack": 130,
+    "Defense": 80,
+    "Sp. Attack": 70,
+    "Sp. Defense": 80,
+    "Speed": 50
+  },
+  {
+    "name": "Cryogonal",
+    "HP": 80,
+    "Attack": 50,
+    "Defense": 50,
+    "Sp. Attack": 95,
+    "Sp. Defense": 135,
+    "Speed": 105
+  },
+  {
+    "name": "Shelmet",
+    "HP": 50,
+    "Attack": 40,
+    "Defense": 85,
+    "Sp. Attack": 40,
+    "Sp. Defense": 65,
+    "Speed": 25
+  },
+  {
+    "name": "Accelgor",
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 40,
+    "Sp. Attack": 100,
+    "Sp. Defense": 60,
+    "Speed": 145
+  },
+  {
+    "name": "Stunfisk",
+    "HP": 109,
+    "Attack": 66,
+    "Defense": 84,
+    "Sp. Attack": 81,
+    "Sp. Defense": 99,
+    "Speed": 32
+  },
+  {
+    "name": "Mienfoo",
+    "HP": 45,
+    "Attack": 85,
+    "Defense": 50,
+    "Sp. Attack": 55,
+    "Sp. Defense": 50,
+    "Speed": 65
+  },
+  {
+    "name": "Mienshao",
+    "HP": 65,
+    "Attack": 125,
+    "Defense": 60,
+    "Sp. Attack": 95,
+    "Sp. Defense": 60,
+    "Speed": 105
+  },
+  {
+    "name": "Druddigon",
+    "HP": 77,
+    "Attack": 120,
+    "Defense": 90,
+    "Sp. Attack": 60,
+    "Sp. Defense": 90,
+    "Speed": 48
+  },
+  {
+    "name": "Golett",
+    "HP": 59,
+    "Attack": 74,
+    "Defense": 50,
+    "Sp. Attack": 35,
+    "Sp. Defense": 50,
+    "Speed": 35
+  },
+  {
+    "name": "Golurk",
+    "HP": 89,
+    "Attack": 124,
+    "Defense": 80,
+    "Sp. Attack": 55,
+    "Sp. Defense": 80,
+    "Speed": 55
+  },
+  {
+    "name": "Pawniard",
+    "HP": 45,
+    "Attack": 85,
+    "Defense": 70,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 60
+  },
+  {
+    "name": "Bisharp",
+    "HP": 65,
+    "Attack": 125,
+    "Defense": 100,
+    "Sp. Attack": 60,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  {
+    "name": "Bouffalant",
+    "HP": 95,
+    "Attack": 110,
+    "Defense": 95,
+    "Sp. Attack": 40,
+    "Sp. Defense": 95,
+    "Speed": 55
+  },
+  {
+    "name": "Rufflet",
+    "HP": 70,
+    "Attack": 83,
+    "Defense": 50,
+    "Sp. Attack": 37,
+    "Sp. Defense": 50,
+    "Speed": 60
+  },
+  {
+    "name": "Braviary",
+    "HP": 100,
+    "Attack": 123,
+    "Defense": 75,
+    "Sp. Attack": 57,
+    "Sp. Defense": 75,
+    "Speed": 80
+  },
+  {
+    "name": "Vullaby",
+    "HP": 70,
+    "Attack": 55,
+    "Defense": 75,
+    "Sp. Attack": 45,
+    "Sp. Defense": 65,
+    "Speed": 60
+  },
+  {
+    "name": "Mandibuzz",
+    "HP": 110,
+    "Attack": 65,
+    "Defense": 105,
+    "Sp. Attack": 55,
+    "Sp. Defense": 95,
+    "Speed": 80
+  },
+  {
+    "name": "Heatmor",
+    "HP": 85,
+    "Attack": 97,
+    "Defense": 66,
+    "Sp. Attack": 105,
+    "Sp. Defense": 66,
+    "Speed": 65
+  },
+  {
+    "name": "Durant",
+    "HP": 58,
+    "Attack": 109,
+    "Defense": 112,
+    "Sp. Attack": 48,
+    "Sp. Defense": 48,
+    "Speed": 109
+  },
+  {
+    "name": "Deino",
+    "HP": 52,
+    "Attack": 65,
+    "Defense": 50,
+    "Sp. Attack": 45,
+    "Sp. Defense": 50,
+    "Speed": 38
+  },
+  {
+    "name": "Zweilous",
+    "HP": 72,
+    "Attack": 85,
+    "Defense": 70,
+    "Sp. Attack": 65,
+    "Sp. Defense": 70,
+    "Speed": 58
+  },
+  {
+    "name": "Hydreigon",
+    "HP": 92,
+    "Attack": 105,
+    "Defense": 90,
+    "Sp. Attack": 125,
+    "Sp. Defense": 90,
+    "Speed": 98
+  },
+  {
+    "name": "Larvesta",
+    "HP": 55,
+    "Attack": 85,
+    "Defense": 55,
+    "Sp. Attack": 50,
+    "Sp. Defense": 55,
+    "Speed": 60
+  },
+  {
+    "name": "Volcarona",
+    "HP": 85,
+    "Attack": 60,
+    "Defense": 65,
+    "Sp. Attack": 135,
+    "Sp. Defense": 105,
+    "Speed": 100
+  },
+  {
+    "name": "Cobalion",
+    "HP": 91,
+    "Attack": 90,
+    "Defense": 129,
+    "Sp. Attack": 90,
+    "Sp. Defense": 72,
+    "Speed": 108
+  },
+  {
+    "name": "Terrakion",
+    "HP": 91,
+    "Attack": 129,
+    "Defense": 90,
+    "Sp. Attack": 72,
+    "Sp. Defense": 90,
+    "Speed": 108
+  },
+  {
+    "name": "Virizion",
+    "HP": 91,
+    "Attack": 90,
+    "Defense": 72,
+    "Sp. Attack": 90,
+    "Sp. Defense": 129,
+    "Speed": 108
+  },
+  {
+    "name": "Tornadus",
+    "HP": 79,
+    "Attack": 115,
+    "Defense": 70,
+    "Sp. Attack": 125,
+    "Sp. Defense": 80,
+    "Speed": 111
+  },
+  {
+    "name": "Thundurus",
+    "HP": 79,
+    "Attack": 115,
+    "Defense": 70,
+    "Sp. Attack": 125,
+    "Sp. Defense": 80,
+    "Speed": 111
+  },
+  {
+    "name": "Reshiram",
+    "HP": 100,
+    "Attack": 120,
+    "Defense": 100,
+    "Sp. Attack": 150,
+    "Sp. Defense": 120,
+    "Speed": 90
+  },
+  {
+    "name": "Zekrom",
+    "HP": 100,
+    "Attack": 150,
+    "Defense": 120,
+    "Sp. Attack": 120,
+    "Sp. Defense": 100,
+    "Speed": 90
+  },
+  {
+    "name": "Landorus",
+    "HP": 89,
+    "Attack": 125,
+    "Defense": 90,
+    "Sp. Attack": 115,
+    "Sp. Defense": 80,
+    "Speed": 101
+  },
+  {
+    "name": "Kyurem",
+    "HP": 125,
+    "Attack": 130,
+    "Defense": 90,
+    "Sp. Attack": 130,
+    "Sp. Defense": 90,
+    "Speed": 95
+  },
+  {
+    "name": "Keldeo",
+    "HP": 91,
+    "Attack": 72,
+    "Defense": 90,
+    "Sp. Attack": 129,
+    "Sp. Defense": 90,
+    "Speed": 108
+  },
+  {
+    "name": "Meloetta",
+    "HP": 100,
+    "Attack": 77,
+    "Defense": 77,
+    "Sp. Attack": 128,
+    "Sp. Defense": 128,
+    "Speed": 90
+  },
+  {
+    "name": "Genesect",
+    "HP": 71,
+    "Attack": 120,
+    "Defense": 95,
+    "Sp. Attack": 120,
+    "Sp. Defense": 95,
+    "Speed": 99
+  },
+  {
+    "name": "Chespin",
+    "HP": 56,
+    "Attack": 61,
+    "Defense": 65,
+    "Sp. Attack": 48,
+    "Sp. Defense": 45,
+    "Speed": 38
+  },
+  {
+    "name": "Quilladin",
+    "HP": 61,
+    "Attack": 78,
+    "Defense": 95,
+    "Sp. Attack": 56,
+    "Sp. Defense": 58,
+    "Speed": 57
+  },
+  {
+    "name": "Chesnaught",
+    "HP": 88,
+    "Attack": 107,
+    "Defense": 122,
+    "Sp. Attack": 74,
+    "Sp. Defense": 75,
+    "Speed": 64
+  },
+  {
+    "name": "Fennekin",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 40,
+    "Sp. Attack": 62,
+    "Sp. Defense": 60,
+    "Speed": 60
+  },
+  {
+    "name": "Braixen",
+    "HP": 59,
+    "Attack": 59,
+    "Defense": 58,
+    "Sp. Attack": 90,
+    "Sp. Defense": 70,
+    "Speed": 73
+  },
+  {
+    "name": "Delphox",
+    "HP": 75,
+    "Attack": 69,
+    "Defense": 72,
+    "Sp. Attack": 114,
+    "Sp. Defense": 100,
+    "Speed": 104
+  },
+  {
+    "name": "Froakie",
+    "HP": 41,
+    "Attack": 56,
+    "Defense": 40,
+    "Sp. Attack": 62,
+    "Sp. Defense": 44,
+    "Speed": 71
+  },
+  {
+    "name": "Frogadier",
+    "HP": 54,
+    "Attack": 63,
+    "Defense": 52,
+    "Sp. Attack": 83,
+    "Sp. Defense": 56,
+    "Speed": 97
+  },
+  {
+    "name": "Greninja",
+    "HP": 72,
+    "Attack": 95,
+    "Defense": 67,
+    "Sp. Attack": 103,
+    "Sp. Defense": 71,
+    "Speed": 122
+  },
+  {
+    "name": "Bunnelby",
+    "HP": 38,
+    "Attack": 36,
+    "Defense": 38,
+    "Sp. Attack": 32,
+    "Sp. Defense": 36,
+    "Speed": 57
+  },
+  {
+    "name": "Diggersby",
+    "HP": 85,
+    "Attack": 56,
+    "Defense": 77,
+    "Sp. Attack": 50,
+    "Sp. Defense": 77,
+    "Speed": 78
+  },
+  {
+    "name": "Fletchling",
+    "HP": 45,
+    "Attack": 50,
+    "Defense": 43,
+    "Sp. Attack": 40,
+    "Sp. Defense": 38,
+    "Speed": 62
+  },
+  {
+    "name": "Fletchinder",
+    "HP": 62,
+    "Attack": 73,
+    "Defense": 55,
+    "Sp. Attack": 56,
+    "Sp. Defense": 52,
+    "Speed": 84
+  },
+  {
+    "name": "Talonflame",
+    "HP": 78,
+    "Attack": 81,
+    "Defense": 71,
+    "Sp. Attack": 74,
+    "Sp. Defense": 69,
+    "Speed": 126
+  },
+  {
+    "name": "Scatterbug",
+    "HP": 38,
+    "Attack": 35,
+    "Defense": 40,
+    "Sp. Attack": 27,
+    "Sp. Defense": 25,
+    "Speed": 35
+  },
+  {
+    "name": "Spewpa",
+    "HP": 45,
+    "Attack": 22,
+    "Defense": 60,
+    "Sp. Attack": 27,
+    "Sp. Defense": 30,
+    "Speed": 29
+  },
+  {
+    "name": "Vivillon",
+    "HP": 80,
+    "Attack": 52,
+    "Defense": 50,
+    "Sp. Attack": 90,
+    "Sp. Defense": 50,
+    "Speed": 89
+  },
+  {
+    "name": "Litleo",
+    "HP": 62,
+    "Attack": 50,
+    "Defense": 58,
+    "Sp. Attack": 73,
+    "Sp. Defense": 54,
+    "Speed": 72
+  },
+  {
+    "name": "Pyroar",
+    "HP": 86,
+    "Attack": 68,
+    "Defense": 72,
+    "Sp. Attack": 109,
+    "Sp. Defense": 66,
+    "Speed": 106
+  },
+  {
+    "name": "Flabébé",
+    "HP": 44,
+    "Attack": 38,
+    "Defense": 39,
+    "Sp. Attack": 61,
+    "Sp. Defense": 79,
+    "Speed": 42
+  },
+  {
+    "name": "Floette",
+    "HP": 54,
+    "Attack": 45,
+    "Defense": 47,
+    "Sp. Attack": 75,
+    "Sp. Defense": 98,
+    "Speed": 52
+  },
+  {
+    "name": "Florges",
+    "HP": 78,
+    "Attack": 65,
+    "Defense": 68,
+    "Sp. Attack": 112,
+    "Sp. Defense": 154,
+    "Speed": 75
+  },
+  {
+    "name": "Skiddo",
+    "HP": 66,
+    "Attack": 65,
+    "Defense": 48,
+    "Sp. Attack": 62,
+    "Sp. Defense": 57,
+    "Speed": 52
+  },
+  {
+    "name": "Gogoat",
+    "HP": 123,
+    "Attack": 100,
+    "Defense": 62,
+    "Sp. Attack": 97,
+    "Sp. Defense": 81,
+    "Speed": 68
+  },
+  {
+    "name": "Pancham",
+    "HP": 67,
+    "Attack": 82,
+    "Defense": 62,
+    "Sp. Attack": 46,
+    "Sp. Defense": 48,
+    "Speed": 43
+  },
+  {
+    "name": "Pangoro",
+    "HP": 95,
+    "Attack": 124,
+    "Defense": 78,
+    "Sp. Attack": 69,
+    "Sp. Defense": 71,
+    "Speed": 58
+  },
+  {
+    "name": "Furfrou",
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 60,
+    "Sp. Attack": 65,
+    "Sp. Defense": 90,
+    "Speed": 102
+  },
+  {
+    "name": "Espurr",
+    "HP": 62,
+    "Attack": 48,
+    "Defense": 54,
+    "Sp. Attack": 63,
+    "Sp. Defense": 60,
+    "Speed": 68
+  },
+  {
+    "name": "Meowstic",
+    "HP": 74,
+    "Attack": 48,
+    "Defense": 76,
+    "Sp. Attack": 83,
+    "Sp. Defense": 81,
+    "Speed": 104
+  },
+  {
+    "name": "Honedge",
+    "HP": 45,
+    "Attack": 80,
+    "Defense": 100,
+    "Sp. Attack": 35,
+    "Sp. Defense": 37,
+    "Speed": 28
+  },
+  {
+    "name": "Doublade",
+    "HP": 59,
+    "Attack": 110,
+    "Defense": 150,
+    "Sp. Attack": 45,
+    "Sp. Defense": 49,
+    "Speed": 35
+  },
+  {
+    "name": "Aegislash",
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 150,
+    "Sp. Attack": 50,
+    "Sp. Defense": 150,
+    "Speed": 60
+  },
+  {
+    "name": "Spritzee",
+    "HP": 78,
+    "Attack": 52,
+    "Defense": 60,
+    "Sp. Attack": 63,
+    "Sp. Defense": 65,
+    "Speed": 23
+  },
+  {
+    "name": "Aromatisse",
+    "HP": 101,
+    "Attack": 72,
+    "Defense": 72,
+    "Sp. Attack": 99,
+    "Sp. Defense": 89,
+    "Speed": 29
+  },
+  {
+    "name": "Swirlix",
+    "HP": 62,
+    "Attack": 48,
+    "Defense": 66,
+    "Sp. Attack": 59,
+    "Sp. Defense": 57,
+    "Speed": 49
+  },
+  {
+    "name": "Slurpuff",
+    "HP": 82,
+    "Attack": 80,
+    "Defense": 86,
+    "Sp. Attack": 85,
+    "Sp. Defense": 75,
+    "Speed": 72
+  },
+  {
+    "name": "Inkay",
+    "HP": 53,
+    "Attack": 54,
+    "Defense": 53,
+    "Sp. Attack": 37,
+    "Sp. Defense": 46,
+    "Speed": 45
+  },
+  {
+    "name": "Malamar",
+    "HP": 86,
+    "Attack": 92,
+    "Defense": 88,
+    "Sp. Attack": 68,
+    "Sp. Defense": 75,
+    "Speed": 73
+  },
+  {
+    "name": "Binacle",
+    "HP": 42,
+    "Attack": 52,
+    "Defense": 67,
+    "Sp. Attack": 39,
+    "Sp. Defense": 56,
+    "Speed": 50
+  },
+  {
+    "name": "Barbaracle",
+    "HP": 72,
+    "Attack": 105,
+    "Defense": 115,
+    "Sp. Attack": 54,
+    "Sp. Defense": 86,
+    "Speed": 68
+  },
+  {
+    "name": "Skrelp",
+    "HP": 50,
+    "Attack": 60,
+    "Defense": 60,
+    "Sp. Attack": 60,
+    "Sp. Defense": 60,
+    "Speed": 30
+  },
+  {
+    "name": "Dragalge",
+    "HP": 65,
+    "Attack": 75,
+    "Defense": 90,
+    "Sp. Attack": 97,
+    "Sp. Defense": 123,
+    "Speed": 44
+  },
+  {
+    "name": "Clauncher",
+    "HP": 50,
+    "Attack": 53,
+    "Defense": 62,
+    "Sp. Attack": 58,
+    "Sp. Defense": 63,
+    "Speed": 44
+  },
+  {
+    "name": "Clawitzer",
+    "HP": 71,
+    "Attack": 73,
+    "Defense": 88,
+    "Sp. Attack": 120,
+    "Sp. Defense": 89,
+    "Speed": 59
+  },
+  {
+    "name": "Helioptile",
+    "HP": 44,
+    "Attack": 38,
+    "Defense": 33,
+    "Sp. Attack": 61,
+    "Sp. Defense": 43,
+    "Speed": 70
+  },
+  {
+    "name": "Heliolisk",
+    "HP": 62,
+    "Attack": 55,
+    "Defense": 52,
+    "Sp. Attack": 109,
+    "Sp. Defense": 94,
+    "Speed": 109
+  },
+  {
+    "name": "Tyrunt",
+    "HP": 58,
+    "Attack": 89,
+    "Defense": 77,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 48
+  },
+  {
+    "name": "Tyrantrum",
+    "HP": 82,
+    "Attack": 121,
+    "Defense": 119,
+    "Sp. Attack": 69,
+    "Sp. Defense": 59,
+    "Speed": 71
+  },
+  {
+    "name": "Amaura",
+    "HP": 77,
+    "Attack": 59,
+    "Defense": 50,
+    "Sp. Attack": 67,
+    "Sp. Defense": 63,
+    "Speed": 46
+  },
+  {
+    "name": "Aurorus",
+    "HP": 123,
+    "Attack": 77,
+    "Defense": 72,
+    "Sp. Attack": 99,
+    "Sp. Defense": 92,
+    "Speed": 58
+  },
+  {
+    "name": "Sylveon",
+    "HP": 95,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 110,
+    "Sp. Defense": 130,
+    "Speed": 60
+  },
+  {
+    "name": "Hawlucha",
+    "HP": 78,
+    "Attack": 92,
+    "Defense": 75,
+    "Sp. Attack": 74,
+    "Sp. Defense": 63,
+    "Speed": 118
+  },
+  {
+    "name": "Dedenne",
+    "HP": 67,
+    "Attack": 58,
+    "Defense": 57,
+    "Sp. Attack": 81,
+    "Sp. Defense": 67,
+    "Speed": 101
+  },
+  {
+    "name": "Carbink",
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 150,
+    "Sp. Attack": 50,
+    "Sp. Defense": 150,
+    "Speed": 50
+  },
+  {
+    "name": "Goomy",
+    "HP": 45,
+    "Attack": 50,
+    "Defense": 35,
+    "Sp. Attack": 55,
+    "Sp. Defense": 75,
+    "Speed": 40
+  },
+  {
+    "name": "Sliggoo",
+    "HP": 68,
+    "Attack": 75,
+    "Defense": 53,
+    "Sp. Attack": 83,
+    "Sp. Defense": 113,
+    "Speed": 60
+  },
+  {
+    "name": "Goodra",
+    "HP": 90,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 110,
+    "Sp. Defense": 150,
+    "Speed": 80
+  },
+  {
+    "name": "Klefki",
+    "HP": 57,
+    "Attack": 80,
+    "Defense": 91,
+    "Sp. Attack": 80,
+    "Sp. Defense": 87,
+    "Speed": 75
+  },
+  {
+    "name": "Phantump",
+    "HP": 43,
+    "Attack": 70,
+    "Defense": 48,
+    "Sp. Attack": 50,
+    "Sp. Defense": 60,
+    "Speed": 38
+  },
+  {
+    "name": "Trevenant",
+    "HP": 85,
+    "Attack": 110,
+    "Defense": 76,
+    "Sp. Attack": 65,
+    "Sp. Defense": 82,
+    "Speed": 56
+  },
+  {
+    "name": "Pumpkaboo",
+    "HP": 59,
+    "Attack": 66,
+    "Defense": 70,
+    "Sp. Attack": 44,
+    "Sp. Defense": 55,
+    "Speed": 41
+  },
+  {
+    "name": "Gourgeist",
+    "HP": 85,
+    "Attack": 100,
+    "Defense": 122,
+    "Sp. Attack": 58,
+    "Sp. Defense": 75,
+    "Speed": 54
+  },
+  {
+    "name": "Bergmite",
+    "HP": 55,
+    "Attack": 69,
+    "Defense": 85,
+    "Sp. Attack": 32,
+    "Sp. Defense": 35,
+    "Speed": 28
+  },
+  {
+    "name": "Avalugg",
+    "HP": 95,
+    "Attack": 117,
+    "Defense": 184,
+    "Sp. Attack": 44,
+    "Sp. Defense": 46,
+    "Speed": 28
+  },
+  {
+    "name": "Noibat",
+    "HP": 40,
+    "Attack": 30,
+    "Defense": 35,
+    "Sp. Attack": 45,
+    "Sp. Defense": 40,
+    "Speed": 55
+  },
+  {
+    "name": "Noivern",
+    "HP": 85,
+    "Attack": 70,
+    "Defense": 80,
+    "Sp. Attack": 97,
+    "Sp. Defense": 80,
+    "Speed": 123
+  },
+  {
+    "name": "Xerneas",
+    "HP": 126,
+    "Attack": 131,
+    "Defense": 95,
+    "Sp. Attack": 131,
+    "Sp. Defense": 98,
+    "Speed": 99
+  },
+  {
+    "name": "Yveltal",
+    "HP": 126,
+    "Attack": 131,
+    "Defense": 95,
+    "Sp. Attack": 131,
+    "Sp. Defense": 98,
+    "Speed": 99
+  },
+  {
+    "name": "Zygarde",
+    "HP": 108,
+    "Attack": 100,
+    "Defense": 121,
+    "Sp. Attack": 81,
+    "Sp. Defense": 95,
+    "Speed": 95
+  },
+  {
+    "name": "Diancie",
+    "HP": 50,
+    "Attack": 100,
+    "Defense": 150,
+    "Sp. Attack": 100,
+    "Sp. Defense": 150,
+    "Speed": 50
+  },
+  {
+    "name": "Hoopa",
+    "HP": 80,
+    "Attack": 110,
+    "Defense": 60,
+    "Sp. Attack": 150,
+    "Sp. Defense": 130,
+    "Speed": 70
+  },
+  {
+    "name": "Volcanion",
+    "HP": 80,
+    "Attack": 110,
+    "Defense": 120,
+    "Sp. Attack": 130,
+    "Sp. Defense": 90,
+    "Speed": 70
+  },
+  {
+    "name": "Rowlet",
+    "HP": 68,
+    "Attack": 55,
+    "Defense": 55,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 42
+  },
+  {
+    "name": "Dartrix",
+    "HP": 78,
+    "Attack": 75,
+    "Defense": 75,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 52
+  },
+  {
+    "name": "Decidueye",
+    "HP": 78,
+    "Attack": 107,
+    "Defense": 75,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 70
+  },
+  {
+    "name": "Litten",
+    "HP": 45,
+    "Attack": 65,
+    "Defense": 40,
+    "Sp. Attack": 60,
+    "Sp. Defense": 40,
+    "Speed": 70
+  },
+  {
+    "name": "Torracat",
+    "HP": 65,
+    "Attack": 85,
+    "Defense": 50,
+    "Sp. Attack": 80,
+    "Sp. Defense": 50,
+    "Speed": 90
+  },
+  {
+    "name": "Incineroar",
+    "HP": 95,
+    "Attack": 115,
+    "Defense": 90,
+    "Sp. Attack": 80,
+    "Sp. Defense": 90,
+    "Speed": 60
+  },
+  {
+    "name": "Popplio",
+    "HP": 50,
+    "Attack": 54,
+    "Defense": 54,
+    "Sp. Attack": 66,
+    "Sp. Defense": 56,
+    "Speed": 40
+  },
+  {
+    "name": "Brionne",
+    "HP": 60,
+    "Attack": 69,
+    "Defense": 69,
+    "Sp. Attack": 91,
+    "Sp. Defense": 81,
+    "Speed": 50
+  },
+  {
+    "name": "Primarina",
+    "HP": 80,
+    "Attack": 74,
+    "Defense": 74,
+    "Sp. Attack": 126,
+    "Sp. Defense": 116,
+    "Speed": 60
+  },
+  {
+    "name": "Pikipek",
+    "HP": 35,
+    "Attack": 75,
+    "Defense": 30,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 65
+  },
+  {
+    "name": "Trumbeak",
+    "HP": 55,
+    "Attack": 85,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 75
+  },
+  {
+    "name": "Toucannon",
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 75,
+    "Sp. Attack": 75,
+    "Sp. Defense": 75,
+    "Speed": 60
+  },
+  {
+    "name": "Yungoos",
+    "HP": 48,
+    "Attack": 70,
+    "Defense": 30,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 45
+  },
+  {
+    "name": "Gumshoos",
+    "HP": 88,
+    "Attack": 110,
+    "Defense": 60,
+    "Sp. Attack": 55,
+    "Sp. Defense": 60,
+    "Speed": 45
+  },
+  {
+    "name": "Grubbin",
+    "HP": 47,
+    "Attack": 62,
+    "Defense": 45,
+    "Sp. Attack": 55,
+    "Sp. Defense": 45,
+    "Speed": 46
+  },
+  {
+    "name": "Charjabug",
+    "HP": 57,
+    "Attack": 82,
+    "Defense": 95,
+    "Sp. Attack": 55,
+    "Sp. Defense": 75,
+    "Speed": 36
+  },
+  {
+    "name": "Vikavolt",
+    "HP": 77,
+    "Attack": 70,
+    "Defense": 90,
+    "Sp. Attack": 145,
+    "Sp. Defense": 75,
+    "Speed": 43
+  },
+  {
+    "name": "Crabrawler",
+    "HP": 47,
+    "Attack": 82,
+    "Defense": 57,
+    "Sp. Attack": 42,
+    "Sp. Defense": 47,
+    "Speed": 63
+  },
+  {
+    "name": "Crabominable",
+    "HP": 97,
+    "Attack": 132,
+    "Defense": 77,
+    "Sp. Attack": 62,
+    "Sp. Defense": 67,
+    "Speed": 43
+  },
+  {
+    "name": "Oricorio",
+    "HP": 75,
+    "Attack": 70,
+    "Defense": 70,
+    "Sp. Attack": 98,
+    "Sp. Defense": 70,
+    "Speed": 93
+  },
+  {
+    "name": "Cutiefly",
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 40,
+    "Sp. Attack": 55,
+    "Sp. Defense": 40,
+    "Speed": 84
+  },
+  {
+    "name": "Ribombee",
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 60,
+    "Sp. Attack": 95,
+    "Sp. Defense": 70,
+    "Speed": 124
+  },
+  {
+    "name": "Rockruff",
+    "HP": 45,
+    "Attack": 65,
+    "Defense": 40,
+    "Sp. Attack": 30,
+    "Sp. Defense": 40,
+    "Speed": 60
+  },
+  {
+    "name": "Lycanroc",
+    "HP": 75,
+    "Attack": 115,
+    "Defense": 65,
+    "Sp. Attack": 55,
+    "Sp. Defense": 65,
+    "Speed": 112
+  },
+  {
+    "name": "Wishiwashi",
+    "HP": 45,
+    "Attack": 20,
+    "Defense": 20,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 40
+  },
+  {
+    "name": "Mareanie",
+    "HP": 50,
+    "Attack": 53,
+    "Defense": 62,
+    "Sp. Attack": 43,
+    "Sp. Defense": 52,
+    "Speed": 45
+  },
+  {
+    "name": "Toxapex",
+    "HP": 50,
+    "Attack": 63,
+    "Defense": 152,
+    "Sp. Attack": 53,
+    "Sp. Defense": 142,
+    "Speed": 35
+  },
+  {
+    "name": "Mudbray",
+    "HP": 70,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 45
+  },
+  {
+    "name": "Mudsdale",
+    "HP": 100,
+    "Attack": 125,
+    "Defense": 100,
+    "Sp. Attack": 55,
+    "Sp. Defense": 85,
+    "Speed": 35
+  },
+  {
+    "name": "Dewpider",
+    "HP": 38,
+    "Attack": 40,
+    "Defense": 52,
+    "Sp. Attack": 40,
+    "Sp. Defense": 72,
+    "Speed": 27
+  },
+  {
+    "name": "Araquanid",
+    "HP": 68,
+    "Attack": 70,
+    "Defense": 92,
+    "Sp. Attack": 50,
+    "Sp. Defense": 132,
+    "Speed": 42
+  },
+  {
+    "name": "Fomantis",
+    "HP": 40,
+    "Attack": 55,
+    "Defense": 35,
+    "Sp. Attack": 50,
+    "Sp. Defense": 35,
+    "Speed": 35
+  },
+  {
+    "name": "Lurantis",
+    "HP": 70,
+    "Attack": 105,
+    "Defense": 90,
+    "Sp. Attack": 80,
+    "Sp. Defense": 90,
+    "Speed": 45
+  },
+  {
+    "name": "Morelull",
+    "HP": 40,
+    "Attack": 35,
+    "Defense": 55,
+    "Sp. Attack": 65,
+    "Sp. Defense": 75,
+    "Speed": 15
+  },
+  {
+    "name": "Shiinotic",
+    "HP": 60,
+    "Attack": 45,
+    "Defense": 80,
+    "Sp. Attack": 90,
+    "Sp. Defense": 100,
+    "Speed": 30
+  },
+  {
+    "name": "Salandit",
+    "HP": 48,
+    "Attack": 44,
+    "Defense": 40,
+    "Sp. Attack": 71,
+    "Sp. Defense": 40,
+    "Speed": 77
+  },
+  {
+    "name": "Salazzle",
+    "HP": 68,
+    "Attack": 64,
+    "Defense": 60,
+    "Sp. Attack": 111,
+    "Sp. Defense": 60,
+    "Speed": 117
+  },
+  {
+    "name": "Stufful",
+    "HP": 70,
+    "Attack": 75,
+    "Defense": 50,
+    "Sp. Attack": 45,
+    "Sp. Defense": 50,
+    "Speed": 50
+  },
+  {
+    "name": "Bewear",
+    "HP": 120,
+    "Attack": 125,
+    "Defense": 80,
+    "Sp. Attack": 55,
+    "Sp. Defense": 60,
+    "Speed": 60
+  },
+  {
+    "name": "Bounsweet",
+    "HP": 42,
+    "Attack": 30,
+    "Defense": 38,
+    "Sp. Attack": 30,
+    "Sp. Defense": 38,
+    "Speed": 32
+  },
+  {
+    "name": "Steenee",
+    "HP": 52,
+    "Attack": 40,
+    "Defense": 48,
+    "Sp. Attack": 40,
+    "Sp. Defense": 48,
+    "Speed": 62
+  },
+  {
+    "name": "Tsareena",
+    "HP": 72,
+    "Attack": 120,
+    "Defense": 98,
+    "Sp. Attack": 50,
+    "Sp. Defense": 98,
+    "Speed": 72
+  },
+  {
+    "name": "Comfey",
+    "HP": 51,
+    "Attack": 52,
+    "Defense": 90,
+    "Sp. Attack": 82,
+    "Sp. Defense": 110,
+    "Speed": 100
+  },
+  {
+    "name": "Oranguru",
+    "HP": 90,
+    "Attack": 60,
+    "Defense": 80,
+    "Sp. Attack": 90,
+    "Sp. Defense": 110,
+    "Speed": 60
+  },
+  {
+    "name": "Passimian",
+    "HP": 100,
+    "Attack": 120,
+    "Defense": 90,
+    "Sp. Attack": 40,
+    "Sp. Defense": 60,
+    "Speed": 80
+  },
+  {
+    "name": "Wimpod",
+    "HP": 25,
+    "Attack": 35,
+    "Defense": 40,
+    "Sp. Attack": 20,
+    "Sp. Defense": 30,
+    "Speed": 80
+  },
+  {
+    "name": "Golisopod",
+    "HP": 75,
+    "Attack": 125,
+    "Defense": 140,
+    "Sp. Attack": 60,
+    "Sp. Defense": 90,
+    "Speed": 40
+  },
+  {
+    "name": "Sandygast",
+    "HP": 55,
+    "Attack": 55,
+    "Defense": 80,
+    "Sp. Attack": 70,
+    "Sp. Defense": 45,
+    "Speed": 15
+  },
+  {
+    "name": "Palossand",
+    "HP": 85,
+    "Attack": 75,
+    "Defense": 110,
+    "Sp. Attack": 100,
+    "Sp. Defense": 75,
+    "Speed": 35
+  },
+  {
+    "name": "Pyukumuku",
+    "HP": 55,
+    "Attack": 60,
+    "Defense": 130,
+    "Sp. Attack": 30,
+    "Sp. Defense": 130,
+    "Speed": 5
+  },
+  {
+    "name": "Type: Null",
+    "HP": 95,
+    "Attack": 95,
+    "Defense": 95,
+    "Sp. Attack": 95,
+    "Sp. Defense": 95,
+    "Speed": 59
+  },
+  {
+    "name": "Silvally",
+    "HP": 95,
+    "Attack": 95,
+    "Defense": 95,
+    "Sp. Attack": 95,
+    "Sp. Defense": 95,
+    "Speed": 95
+  },
+  {
+    "name": "Minior",
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 100,
+    "Sp. Attack": 60,
+    "Sp. Defense": 100,
+    "Speed": 60
+  },
+  {
+    "name": "Komala",
+    "HP": 65,
+    "Attack": 115,
+    "Defense": 65,
+    "Sp. Attack": 75,
+    "Sp. Defense": 95,
+    "Speed": 65
+  },
+  {
+    "name": "Turtonator",
+    "HP": 60,
+    "Attack": 78,
+    "Defense": 135,
+    "Sp. Attack": 91,
+    "Sp. Defense": 85,
+    "Speed": 36
+  },
+  {
+    "name": "Togedemaru",
+    "HP": 65,
+    "Attack": 98,
+    "Defense": 63,
+    "Sp. Attack": 40,
+    "Sp. Defense": 73,
+    "Speed": 96
+  },
+  {
+    "name": "Mimikyu",
+    "HP": 55,
+    "Attack": 90,
+    "Defense": 80,
+    "Sp. Attack": 50,
+    "Sp. Defense": 105,
+    "Speed": 96
+  },
+  {
+    "name": "Bruxish",
+    "HP": 68,
+    "Attack": 105,
+    "Defense": 70,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 92
+  },
+  {
+    "name": "Drampa",
+    "HP": 78,
+    "Attack": 60,
+    "Defense": 85,
+    "Sp. Attack": 135,
+    "Sp. Defense": 91,
+    "Speed": 36
+  },
+  {
+    "name": "Dhelmise",
+    "HP": 70,
+    "Attack": 131,
+    "Defense": 100,
+    "Sp. Attack": 86,
+    "Sp. Defense": 90,
+    "Speed": 40
+  },
+  {
+    "name": "Jangmo-o",
+    "HP": 45,
+    "Attack": 55,
+    "Defense": 65,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 45
+  },
+  {
+    "name": "Hakamo-o",
+    "HP": 55,
+    "Attack": 75,
+    "Defense": 90,
+    "Sp. Attack": 65,
+    "Sp. Defense": 70,
+    "Speed": 65
+  },
+  {
+    "name": "Kommo-o",
+    "HP": 75,
+    "Attack": 110,
+    "Defense": 125,
+    "Sp. Attack": 100,
+    "Sp. Defense": 105,
+    "Speed": 85
+  },
+  {
+    "name": "Tapu Koko",
+    "HP": 70,
+    "Attack": 115,
+    "Defense": 85,
+    "Sp. Attack": 95,
+    "Sp. Defense": 75,
+    "Speed": 130
+  },
+  {
+    "name": "Tapu Lele",
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 75,
+    "Sp. Attack": 130,
+    "Sp. Defense": 115,
+    "Speed": 95
+  },
+  {
+    "name": "Tapu Bulu",
+    "HP": 70,
+    "Attack": 130,
+    "Defense": 115,
+    "Sp. Attack": 85,
+    "Sp. Defense": 95,
+    "Speed": 75
+  },
+  {
+    "name": "Tapu Fini",
+    "HP": 70,
+    "Attack": 75,
+    "Defense": 115,
+    "Sp. Attack": 95,
+    "Sp. Defense": 130,
+    "Speed": 85
+  },
+  {
+    "name": "Cosmog",
+    "HP": 43,
+    "Attack": 29,
+    "Defense": 31,
+    "Sp. Attack": 29,
+    "Sp. Defense": 31,
+    "Speed": 37
+  },
+  {
+    "name": "Cosmoem",
+    "HP": 43,
+    "Attack": 29,
+    "Defense": 131,
+    "Sp. Attack": 29,
+    "Sp. Defense": 131,
+    "Speed": 37
+  },
+  {
+    "name": "Solgaleo",
+    "HP": 137,
+    "Attack": 137,
+    "Defense": 107,
+    "Sp. Attack": 113,
+    "Sp. Defense": 89,
+    "Speed": 97
+  },
+  {
+    "name": "Lunala",
+    "HP": 137,
+    "Attack": 113,
+    "Defense": 89,
+    "Sp. Attack": 137,
+    "Sp. Defense": 107,
+    "Speed": 97
+  },
+  {
+    "name": "Nihilego",
+    "HP": 109,
+    "Attack": 53,
+    "Defense": 47,
+    "Sp. Attack": 127,
+    "Sp. Defense": 131,
+    "Speed": 103
+  },
+  {
+    "name": "Buzzwole",
+    "HP": 107,
+    "Attack": 139,
+    "Defense": 139,
+    "Sp. Attack": 53,
+    "Sp. Defense": 53,
+    "Speed": 79
+  },
+  {
+    "name": "Pheromosa",
+    "HP": 71,
+    "Attack": 137,
+    "Defense": 37,
+    "Sp. Attack": 137,
+    "Sp. Defense": 37,
+    "Speed": 151
+  },
+  {
+    "name": "Xurkitree",
+    "HP": 83,
+    "Attack": 89,
+    "Defense": 71,
+    "Sp. Attack": 173,
+    "Sp. Defense": 71,
+    "Speed": 83
+  },
+  {
+    "name": "Celesteela",
+    "HP": 97,
+    "Attack": 101,
+    "Defense": 103,
+    "Sp. Attack": 107,
+    "Sp. Defense": 101,
+    "Speed": 61
+  },
+  {
+    "name": "Kartana",
+    "HP": 59,
+    "Attack": 181,
+    "Defense": 131,
+    "Sp. Attack": 59,
+    "Sp. Defense": 31,
+    "Speed": 109
+  },
+  {
+    "name": "Guzzlord",
+    "HP": 223,
+    "Attack": 101,
+    "Defense": 53,
+    "Sp. Attack": 97,
+    "Sp. Defense": 53,
+    "Speed": 43
+  },
+  {
+    "name": "Necrozma",
+    "HP": 97,
+    "Attack": 107,
+    "Defense": 101,
+    "Sp. Attack": 127,
+    "Sp. Defense": 89,
+    "Speed": 79
+  },
+  {
+    "name": "Magearna",
+    "HP": 80,
+    "Attack": 95,
+    "Defense": 115,
+    "Sp. Attack": 130,
+    "Sp. Defense": 115,
+    "Speed": 65
+  },
+  {
+    "name": "Marshadow",
+    "HP": 90,
+    "Attack": 125,
+    "Defense": 80,
+    "Sp. Attack": 90,
+    "Sp. Defense": 90,
+    "Speed": 125
+  },
+  {
+    "name": "Poipole",
+    "HP": 67,
+    "Attack": 73,
+    "Defense": 67,
+    "Sp. Attack": 73,
+    "Sp. Defense": 67,
+    "Speed": 73
+  },
+  {
+    "name": "Naganadel",
+    "HP": 73,
+    "Attack": 73,
+    "Defense": 73,
+    "Sp. Attack": 127,
+    "Sp. Defense": 73,
+    "Speed": 121
+  },
+  {
+    "name": "Stakataka",
+    "HP": 61,
+    "Attack": 131,
+    "Defense": 211,
+    "Sp. Attack": 53,
+    "Sp. Defense": 101,
+    "Speed": 13
+  },
+  {
+    "name": "Blacephalon",
+    "HP": 53,
+    "Attack": 127,
+    "Defense": 53,
+    "Sp. Attack": 151,
+    "Sp. Defense": 79,
+    "Speed": 107
+  },
+  {
+    "name": "Zeraora",
+    "HP": 88,
+    "Attack": 112,
+    "Defense": 75,
+    "Sp. Attack": 102,
+    "Sp. Defense": 80,
+    "Speed": 143
+  },
+  {
+    "name": "Meltan",
+    "HP": 46,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 55,
+    "Sp. Defense": 35,
+    "Speed": 34
+  },
+  {
+    "name": "Melmetal",
+    "HP": 135,
+    "Attack": 143,
+    "Defense": 143,
+    "Sp. Attack": 80,
+    "Sp. Defense": 65,
+    "Speed": 34
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "hit_points": "HP",
+  "max_damage": "Max Damage",
+  "strength": "Strengh",
+  "dexterity": "Dexterity",
+  "constitution": "Constitution",
+  "intelligence": "Intelligence",
+  "wisdom": "Wisdom",
+  "charisma": "Charisma",
+  "challenge_rating": "Challenge"
+}
