@@ -1,8 +1,4 @@
-import React from 'react';
-import {
-  Slider,
-  withStyles,
-} from '@material-ui/core';
+import { Slider, withStyles } from '@material-ui/core';
 
 export default withStyles({
   root: {
