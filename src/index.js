@@ -14,7 +14,7 @@ const App = () => (
     <Grid item md={3} xs={12}>
       <SearchBox />
       {fields.map((f) => (
-        <FieldSlider field={f} />
+        <FieldSlider key={f} field={f} />
       ))}
     </Grid>
     <Grid item md={9} xs={12}>

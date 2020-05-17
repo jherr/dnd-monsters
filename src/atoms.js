@@ -9,14 +9,22 @@ export const currentItemAtom = atom({
 const fieldValues = {};
 
 export const fieldValuesAtom = (key) => {
-  fieldValues[key] =
-    fieldValues[key] ||
-    atom({
+  if (fieldValues[key] === undefined) {
+    fieldValues[key] = atom({
       key: `value:${key}`,
       default: startItem[key],
     });
+  }
   return fieldValues[key];
 };
+
+export const allFields = selector({
+  set: ({ set }, value) => {
+    Object.keys(value).forEach((key) => {
+      set(fieldValuesAtom(key), value[key]);
+    });
+  },
+});
 
 export const foundAtom = selector({
   key: 'found',

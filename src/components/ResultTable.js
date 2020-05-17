@@ -9,7 +9,7 @@ import {
   Paper,
   withStyles,
 } from '@material-ui/core';
-import { useRecoilState } from 'recoil';
+import { useRecoilValue } from 'recoil';
 
 import { labels, fields } from '../searchEngine';
 import { foundAtom } from '../atoms';
@@ -29,7 +29,7 @@ const StyledTableRow = withStyles((theme) => ({
 }))(TableRow);
 
 const ResultTable = () => {
-  const [results] = useRecoilState(foundAtom);
+  const results = useRecoilValue(foundAtom);
   return (
     <TableContainer component={Paper}>
       <Table stickyHeader aria-label="Results table">

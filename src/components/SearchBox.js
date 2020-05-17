@@ -2,14 +2,15 @@
 import React from 'react';
 import { TextField } from '@material-ui/core';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import { useRecoilState } from 'recoil';
+import { useRecoilState, useSetRecoilState } from 'recoil';
 
-import { items } from '../searchEngine';
-import { currentItemAtom, fieldValuesAtom } from '../atoms';
+import { items, fields } from '../searchEngine';
+import { currentItemAtom, allFields } from '../atoms';
 
 const SearchBox = () => {
   const [currentItem, setCurrentItem] = useRecoilState(currentItemAtom);
-  // const [_, setValues] = useRecoilState(fieldValuesAtom);
+  const setAllFields = useSetRecoilState(allFields);
+
   return (
     <Autocomplete
       value={currentItem}
@@ -17,7 +18,7 @@ const SearchBox = () => {
       getOptionLabel={(option) => option.name}
       onChange={(_, cur) => {
         setCurrentItem(cur);
-        // setValues({ ...cur });
+        setAllFields(cur);
       }}
       renderInput={(params) => <TextField {...params} label="Item" fullWidth />}
     />

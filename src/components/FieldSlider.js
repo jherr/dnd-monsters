@@ -1,6 +1,5 @@
 import React from 'react';
 import { Typography } from '@material-ui/core';
-import PropTypes from 'prop-types';
 import { useRecoilState } from 'recoil';
 
 import { fieldValuesAtom, rangesAtom } from '../atoms';
@@ -27,13 +26,6 @@ const Slider = ({ field }) => {
       />
     </>
   );
-};
-
-Slider.propTypes = {
-  field: PropTypes.string.isRequired,
-  label: PropTypes.string.isRequired,
-  min: PropTypes.number.isRequired,
-  max: PropTypes.number.isRequired,
 };
 
 export default Slider;
