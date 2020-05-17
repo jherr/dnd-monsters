@@ -1,22 +1,28 @@
 import { atom, selector } from 'recoil';
-import { search, ranges, fields, startItem, findRanges } from './searchEngine';
+import { search, fields, startItem, findRanges } from './searchEngine';
 
 export const currentItemAtom = atom({
   key: 'currentItem',
   default: startItem,
 });
 
-export const fieldValuesAtom = atom({
-  key: 'fieldValues',
-  default: { ...startItem },
-});
+const fieldValues = {};
+
+export const fieldValuesAtom = (key) => {
+  fieldValues[key] =
+    fieldValues[key] ||
+    atom({
+      key: `value:${key}`,
+      default: startItem[key],
+    });
+  return fieldValues[key];
+};
 
 export const foundAtom = selector({
   key: 'found',
   get: ({ get }) => {
-    const values = get(fieldValuesAtom);
     return search(
-      fields.map((f) => values[f]),
+      fields.map((f) => get(fieldValuesAtom(f))),
       20
     );
   },

@@ -9,7 +9,7 @@ import { currentItemAtom, fieldValuesAtom } from '../atoms';
 
 const SearchBox = () => {
   const [currentItem, setCurrentItem] = useRecoilState(currentItemAtom);
-  const [_, setValues] = useRecoilState(fieldValuesAtom);
+  // const [_, setValues] = useRecoilState(fieldValuesAtom);
   return (
     <Autocomplete
       value={currentItem}
@@ -17,7 +17,7 @@ const SearchBox = () => {
       getOptionLabel={(option) => option.name}
       onChange={(_, cur) => {
         setCurrentItem(cur);
-        setValues({ ...cur });
+        // setValues({ ...cur });
       }}
       renderInput={(params) => <TextField {...params} label="Item" fullWidth />}
     />
