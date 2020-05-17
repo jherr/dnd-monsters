@@ -1,89 +1,60 @@
-import React, { useState, useEffect, useDeferredValue } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
-import {
-  Grid,
-} from '@material-ui/core';
+import { Grid } from '@material-ui/core';
+import { RecoilRoot, useRecoilState } from 'recoil';
 
-import {
-  labels,
-  ranges,
-  startItem,
-  search,
-  items,
-  fields,
-  findRanges,
-} from './searchEngine';
+import { labels, ranges, fields } from './searchEngine';
 
 import FieldSlider from './components/FieldSlider';
 import ResultTable from './components/ResultTable';
 import SearchBox from './components/SearchBox';
 
-const App = () => {
-  const [state, setState] = useState({
-    currentItem: startItem,
-    values: { ...startItem },
-  });
-  const [activeRanges, setActiveRanges] = useState({ ...ranges });
-  const [found, setFound] = useState([]);
-  const deferredState = useDeferredValue(state);
+import { fieldValuesAtom, rangesAtom } from './atoms';
 
-  const change = (evt, currentItem) => {
-    setState({
-      ...state,
-      currentItem,
-      values: {
-        ...currentItem,
-      }
-    });
-  }
-
-  const setValue = (field, value) => {
-    setState({
-      ...state,
-      values: {
-        ...state.values,
-        [field]: value,
-      },
-    });
-  }
-
-  useEffect(() => {
-    const res = search(fields.map(f => deferredState.values[f]), 20);
-    setActiveRanges(findRanges(res));
-    setFound(res);
-  }, [deferredState]);
+const FieldSliders = () => {
+  const [values, setValues] = useRecoilState(fieldValuesAtom);
+  const [activeRanges] = useRecoilState(rangesAtom);
 
   return (
-    <Grid container spacing={3}>
-      <Grid item md={3} xs={12}>
-        <SearchBox
-          value={state.currentItem}
-          options={items}
-          onChange={change}
+    <>
+      {fields.map((f) => (
+        <FieldSlider
+          field={f}
+          label={labels[f]}
+          value={values[f]}
+          onChange={(field, value) => {
+            setValues({
+              ...values,
+              [field]: value,
+            });
+          }}
+          min={ranges[f].min}
+          max={ranges[f].max}
+          activeMin={activeRanges[f].min}
+          activeMax={activeRanges[f].max}
+          key={f}
         />
-        {fields.map(f => (
-          <FieldSlider
-            field={f}
-            label={labels[f]}
-            value={state.values[f]}
-            onChange={setValue}
-            min={ranges[f].min}
-            max={ranges[f].max}
-            activeMin={activeRanges[f].min}
-            activeMax={activeRanges[f].max}
-            key={f}
-          />
-        ))}
-      </Grid>
-      <Grid item md={9} xs={12}>
-        <ResultTable
-          fields={fields}
-          results={found}
-          labels={labels}
-        />
-      </Grid>
-    </Grid>
+      ))}
+    </>
   );
-}
+};
 
-ReactDOM.createRoot(document.getElementById('app')).render(<App />)
+const App = () => (
+  <Grid container spacing={3}>
+    <Grid item md={3} xs={12}>
+      <SearchBox />
+      <FieldSliders />
+    </Grid>
+    <Grid item md={9} xs={12}>
+      <ResultTable />
+    </Grid>
+  </Grid>
+);
+
+const RootApp = () => (
+  <RecoilRoot>
+    <App />
+  </RecoilRoot>
+);
+
+ReactDOM.render(<RootApp />, document.getElementById('app'));

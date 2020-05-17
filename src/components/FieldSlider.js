@@ -11,7 +11,7 @@ const Slider = ({ field, label, value, onChange, min, max, activeMin, activeMax 
     </Typography>
     <GreenSlider
       value={value}
-      onChange={(evt, val) => onChange(field, val)}
+      onChange={(_, val) => onChange(field, val)}
       aria-labelledby="discrete-slider"
       valueLabelDisplay="auto"
       min={min}

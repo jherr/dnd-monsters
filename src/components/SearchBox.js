@@ -2,22 +2,26 @@
 import React from 'react';
 import { TextField } from '@material-ui/core';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import PropType from 'prop-types';
+import { useRecoilState } from 'recoil';
 
-const SearchBox = ({ value, options, onChange }) => (
-  <Autocomplete
-    value={value}
-    options={options}
-    getOptionLabel={(option) => option.name}
-    onChange={onChange}
-    renderInput={(params) => <TextField {...params} label="Item" fullWidth />}
-  />
-);
+import { items } from '../searchEngine';
+import { currentItemAtom, fieldValuesAtom } from '../atoms';
 
-SearchBox.propTypes = {
-  value: PropType.string.isRequired,
-  options: PropType.arrayOf(PropType.any).isRequired,
-  onChange: PropType.func.isRequired,
+const SearchBox = () => {
+  const [currentItem, setCurrentItem] = useRecoilState(currentItemAtom);
+  const [_, setValues] = useRecoilState(fieldValuesAtom);
+  return (
+    <Autocomplete
+      value={currentItem}
+      options={items}
+      getOptionLabel={(option) => option.name}
+      onChange={(_, cur) => {
+        setCurrentItem(cur);
+        setValues({ ...cur });
+      }}
+      renderInput={(params) => <TextField {...params} label="Item" fullWidth />}
+    />
+  );
 };
 
 export default SearchBox;

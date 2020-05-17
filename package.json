@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html --out-dir docs --public-url /dnd-monsters/"
+    "build": "parcel build index.html --out-dir docs --public-url /dnd-monsters/",
+    "lint": "eslint --fix src/**/*.js src/*.js"
   },
   "dependencies": {
     "@material-ui/core": "^4.7.0",
@@ -13,8 +14,9 @@
     "@material-ui/lab": "^4.0.0-alpha.36",
     "parcel-bundler": "^1.12.4",
     "prop-types": "^15.7.2",
-    "react": "experimental",
-    "react-dom": "experimental",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "recoil": "^0.0.7",
     "static-kdtree": "^1.0.2"
   },
   "devDependencies": {
@@ -22,6 +24,15 @@
     "@babel/plugin-transform-runtime": "^7.8.3",
     "@babel/preset-env": "^7.8.7",
     "@babel/preset-react": "^7.8.3",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.0",
+    "prettier": "^2.0.1",
     "roll-parser": "^2.3.2"
   }
 }
